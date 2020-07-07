@@ -1,0 +1,1178 @@
+,game,developer,number of devs,rating,rating count,metacritic
+0,The Witcher 3: Wild Hunt,['CD PROJEKT RED'],1,4.67,3475,93
+1,Life is Strange,['DONTNOD Entertainment'],1,4.1,2219,83
+2,Red Dead Redemption 2,['Rockstar Games'],1,4.56,2542,96
+3,DOOM (2016),"['Bethesda Softworks', 'id Software']",2,4.4,2174,85
+4,Fallout 4,['Bethesda Game Studios'],1,3.75,1988,84
+5,God of War,['SCE Santa Monica Studio'],1,4.61,2577,94
+6,Rocket League,['Psyonix'],1,4.02,1633,86
+7,METAL GEAR SOLID V: THE PHANTOM PAIN,['Konami Digital Entertainment'],1,4.17,1625,91
+8,Destiny 2,"['Bungie, Inc.', 'Vicarious Visions']",2,3.64,1505,82
+9,Horizon Zero Dawn,['Guerrilla Games'],1,4.36,2172,89
+10,HITMAN,"['IO Interactive', 'Square Enix', 'Feral Interactive']",3,3.91,1210,83
+11,Rise of the Tomb Raider,"['Crystal Dynamics', 'Nixxes', 'Feral Interactive']",3,4.0,1527,86
+12,Batman: Arkham Knight,"['Rocksteady Studios', 'Warner Bros. Interactive']",2,4.21,1519,81
+13,Uncharted 4: A Thief’s End,['Naughty Dog'],1,4.53,2267,93
+14,Deus Ex: Mankind Divided,['Eidos Montreal'],1,3.95,1248,83
+15,Marvel's Spider-Man,['Insomniac Games'],1,4.46,2042,87
+16,Dark Souls III,"['BANDAI NAMCO Entertainment America Inc.', 'FromSoftware']",2,4.39,1422,89
+17,For Honor,"['Blue Byte', 'Ubisoft', 'Ubisoft Montreal', 'Ubisoft Quebec', 'Ubisoft Toronto']",5,3.32,1060,76
+18,Bloodborne,"['FromSoftware', 'Sony Interactive Entertainment']",2,4.38,1602,92
+19,Prey (2017),['Arkane Studios'],1,4.29,1254,80
+20,Just Cause 3,"['Avalanche Studios', 'Square Enix']",2,3.31,944,74
+21,Mad Max,"['Avalanche Studios', 'Warner Bros. Interactive', 'Feral Interactive']",3,3.71,1082,73
+22,Hellblade: Senua's Sacrifice,['Ninja Theory'],1,4.31,1201,83
+23,Don't Starve Together,['Klei Entertainment'],1,3.8,717,83
+24,MORTAL KOMBAT X,"['High Voltage Software', 'NetherRealm Studios', 'Warner Bros. Interactive']",3,3.86,1251,76
+25,Detroit: Become Human,['Quantic Dream'],1,4.26,1535,79
+26,Hollow Knight,['Team Cherry'],1,4.39,1238,88
+27,Layers of Fear,['Bloober Team S.A.'],1,3.49,671,72
+28,Stardew Valley,"['CHUCKLEFISH LIMITED', 'ConcernedApe']",2,4.39,1150,89
+29,The Elder Scrolls V: Skyrim Special Edition,['Bethesda Game Studios'],1,4.43,1086,74
+30,PlayerUnknown’s Battlegrounds,"['Bluehole, Inc.', 'PUBG Corporation']",2,3.38,1053,81
+31,Dishonored 2,"['Arkane Studios', 'Bethesda Softworks']",2,4.26,1071,86
+32,Cities: Skylines,['Colossal Order Ltd.'],1,4.16,838,85
+33,Firewatch,['Campo Santo'],1,4.3,1432,81
+34,Paladins,['Hi-Rez Studios'],1,3.09,800,78
+35,INSIDE,['Playdead'],1,4.39,1430,87
+36,NieR:Automata,"['Platinum Games', '8-4']",2,4.35,1169,86
+37,Darksiders Warmastered Edition,"['Kaiko', 'Vigil Games']",2,3.67,560,79
+38,Monster Hunter: World,"['Capcom', 'Capcom U.S.A., Inc.']",2,4.09,960,89
+39,Call of Duty: Black Ops III,"['Beenox', 'Raven Software', 'Treyarch', 'Mercenary Technology', 'Aspyr Media']",5,3.23,927,73
+40,DiRT Rally,"['Codemasters', 'Feral Interactive']",2,3.77,400,86
+41,SOMA,['Frictional Games'],1,4.14,799,84
+42,Undertale,"['tobyfox', 'Toby Fox', '8-4, Ltd.', '8-4']",4,4.34,925,92
+43,Grim Fandango Remastered,"['Double Fine Productions', 'LucasArts Entertainment']",2,4.01,605,84
+44,Assassin's Creed Origins,"['Ubisoft', 'Ubisoft Montreal']",2,4.01,1122,81
+45,XCOM 2,"['2K', 'Firaxis', 'Feral Interactive']",3,4.11,798,88
+46,Titanfall 2,['Respawn Entertainment'],1,4.32,1079,87
+47,Death Stranding,"['Kojima Productions', 'Guerrilla Games']",2,4.38,723,82
+48,Tom Clancy's Rainbow Six Siege,"['Ubisoft', 'Ubisoft Montreal']",2,4.03,841,75
+49,Far Cry 5,"['Ubisoft', 'Ubisoft Kiev', 'Ubisoft Montreal', 'Ubisoft Toronto', 'Red Storm', 'Ubisoft Shanghai']",6,3.7,1044,80
+50,Mafia III,"['2K Czech', 'Hangar 13', 'Aspyr Media']",3,3.11,882,62
+51,Wolfenstein 2: The New Colossus,"['Bethesda Softworks', 'Machine Games']",2,4.09,1049,86
+52,Assassin's Creed Odyssey,"['Ubisoft', 'Ubisoft Bucharest', 'Ubisoft Kiev', 'Ubisoft Montpellier', 'Ubisoft Montreal', 'Ubisoft Quebec', 'Ubisoft Shanghai', 'Ubisoft Singapore']",8,4.07,1012,85
+53,Battlefield 1,"['Electronic Arts', 'Electronic Arts DICE']",2,3.78,1131,88
+54,Broforce,"['Devolver Digital', 'Free Lives']",2,3.97,816,83
+55,Shadow of the Tomb Raider,['Eidos Montreal'],1,3.82,777,78
+56,Ori and the Blind Forest,['Moon Studios GmbH'],1,4.33,819,88
+57,Cuphead,"['StudioMDHR Entertainment Inc.', 'Studio MDHR']",2,4.36,1038,87
+58,Hitman 2,['IO Interactive'],1,4.04,607,83
+59,Sekiro: Shadows Die Twice,['FromSoftware'],1,4.37,1001,90
+60,Until Dawn,['Supermassive Games'],1,4.1,1089,79
+61,Watch Dogs 2,['Ubisoft Montreal'],1,3.85,886,79
+62,No Man's Sky,"['Hello Games', 'Hello Games LTD']",2,3.62,807,70
+63,Apex Legends,['Respawn Entertainment'],1,3.68,1223,88
+64,The Witness,"['Number None', 'Thekla, Inc', 'NVIDIA Lightspeed Studios']",3,4.04,789,87
+65,Tom Clancy’s The Division,"['Massive Entertainment', 'Ubisoft']",2,3.72,863,80
+66,Ori and the Blind Forest: Definitive Edition,['Moon Studios GmbH'],1,4.39,858,88
+67,What Remains of Edith Finch,['Giant Sparrow'],1,4.37,1137,89
+68,Jotun: Valhalla Edition,['Thunder Lotus Games'],1,3.07,347,79
+69,Call of Duty: WWII,['Sledgehammer Games'],1,3.49,568,77
+70,Overcooked,"['Ghost Town Games Ltd.', 'Team17 Digital']",2,4.1,831,81
+71,Quantum Break,['Remedy Entertainment'],1,3.9,744,66
+72,Resident Evil 7: Biohazard,"['Capcom', 'Capcom U.S.A., Inc.']",2,4.31,905,85
+73,Ratchet & Clank (2016),['Insomniac Games'],1,4.04,884,85
+74,Kingdom Come: Deliverance,"['Deep Silver', 'Warhorse Studios']",2,4.03,685,71
+75,Hacknet,['Team Fractal Alligator'],1,3.21,319,82
+76,Darkest Dungeon,['Red Hook Studios'],1,4.22,719,84
+77,Borderlands Game of the Year Enhanced,"['Gearbox Software', 'Blind Squirrel Games']",2,3.82,594,78
+78,Tales from the Borderlands,['Telltale Games'],1,4.15,729,86
+79,FINAL FANTASY XV,['Square Enix'],1,3.89,863,82
+80,Divinity: Original Sin - Enhanced Edition,['Larian Studios'],1,4.3,628,94
+81,Middle-earth: Shadow of War,"['Monolith Productions', 'Warner Bros. Interactive']",2,3.86,667,82
+82,The Legend of Zelda: Breath of the Wild,['Nintendo'],1,4.56,1699,97
+83,Fallout Shelter,"['Bethesda Game Studios', 'Bethesda Softworks']",2,3.47,787,63
+84,Orwell: Keeping an Eye On You,"['Osmotic Studios', 'Fellow Traveller']",2,3.25,377,77
+85,Assassin's Creed Syndicate,"['Ubisoft Montreal', 'Ubisoft Quebec', 'Ubisoft Singapore']",3,3.68,816,74
+86,SUPERHOT,"['SUPERHOT Team', 'SUPERHOT Sp. z o.o.']",2,4.22,786,82
+87,Kingdom: Classic,"['Licorice', 'Noio']",2,3.44,327,74
+88,Devil May Cry 5,['Capcom'],1,4.24,810,88
+89,The Flame in the Flood,['The Molasses Flood'],1,2.9,268,73
+90,Rust,['Facepunch Studios'],1,3.39,440,69
+91,Divinity: Original Sin 2,['Larian Studios'],1,4.38,801,95
+92,Star Wars Jedi: Fallen Order,['Respawn Entertainment'],1,4.12,628,80
+93,Dead Cells,"['Motion Twin', 'Playdigious', 'Plug In Digital', 'Motion Twin SARL']",4,4.29,822,88
+94,Sid Meier’s Civilization VI,"['Firaxis', 'Aspyr Media']",2,4.15,686,88
+95,Wolfenstein: The Old Blood,"['Bethesda Softworks', 'Machine Games']",2,4.05,669,76
+96,Dying Light: The Following - Enhanced Edition,['Techland'],1,4.2,504,87
+97,SMITE,['Hi-Rez Studios'],1,3.15,443,83
+98,Satellite Reign,['5 Lives Studios'],1,2.59,209,75
+99,Stories: The Path of Destinies,['Spearhead Games'],1,3.23,385,74
+100,Pillars of Eternity,['Obsidian Entertainment'],1,3.94,448,89
+101,Uncharted: The Lost Legacy,['Naughty Dog'],1,4.29,799,85
+102,Killing Floor 2,['Tripwire Interactive'],1,3.51,490,75
+103,Resident Evil 2,['Capcom'],1,4.45,990,91
+104,Call of Duty: Modern Warfare Remastered,"['Activision', 'Beenox', 'Raven Software']",3,3.99,710,86
+105,Resident Evil Revelations 2 / Biohazard Revelations 2,"['Capcom', 'Sony Computer Entertainment America']",2,3.69,438,72
+106,Dark Souls II: Scholar of the First Sin,"['BANDAI NAMCO Entertainment America Inc.', 'FromSoftware']",2,4.15,602,79
+107,Yakuza 0,"['SEGA', 'Ryu ga Gotoku Studio']",2,4.33,562,85
+108,Oxenfree,"['Night School Studio', 'Night School Studio LLC', 'Night School Studios']",3,3.92,554,80
+109,The Elder Scrolls Online: Tamriel Unlimited,"['Bethesda Softworks', 'Zenimax Online Studios']",2,3.47,459,77
+110,ABZU,['Giant Squid'],1,3.97,625,83
+111,Subnautica,"['Unknown Worlds Entertainment', 'Unknown Worlds Entertainment, Inc.']",2,4.26,667,83
+112,Persona 5,['Atlus'],1,4.38,914,93
+113,Sonic Mania,"['SEGA', 'PagodaWest Games', 'Christian Whitehead', 'Headcannon']",4,3.92,553,85
+114,The Outer Worlds,['Obsidian Entertainment'],1,3.99,588,80
+115,F1 2015,"['Codemasters', 'Feral Interactive']",2,2.73,193,61
+116,Magicka 2,"['Paradox Interactive', 'Pieces Interactive']",2,3.65,413,69
+117,Metro Exodus,['4A Games'],1,4.03,664,81
+118,Kholat,"['IMAGINATION S.C.', 'IMGN.PRO']",2,2.67,255,64
+119,The Order: 1886,['Ready At Dawn'],1,3.75,675,63
+120,Prison Architect,"['Double Eleven', 'Introversion Software']",2,3.81,313,83
+121,Starbound,['Chucklefish'],1,3.91,476,81
+122,Dying Light,['Techland'],1,4.09,656,74
+123,Control,"['505 Games', 'Remedy Entertainment']",2,4.19,584,84
+124,Human: Fall Flat,"['505 Games', 'Curve Digital', 'No Brakes Games']",3,3.82,478,70
+125,Doki Doki Literature Club!,['Team Salvato'],1,4.06,617,78
+126,Celeste,['Matt Makes Games Inc.'],1,4.39,855,91
+127,RiME,"['QLOC', 'Tequila Works', 'Grey Box']",3,3.73,564,78
+128,The Awesome Adventures of Captain Spirit,['DONTNOD Entertainment'],1,3.64,562,77
+129,Star Wars: Battlefront II (2017),['Electronic Arts DICE'],1,3.51,631,74
+130,Evolve Stage 2,['Turtle Rock Studios'],1,2.49,285,77
+131,Life is Strange: Before The Storm,"['Square Enix', 'Deck Nine']",2,3.93,691,77
+132,The Red Solstice,['Ironward'],1,2.36,127,74
+133,Dungeons 2,"['Kalypso Media', 'Realmforge Studios']",2,2.83,177,70
+134,Saints Row: Gat Out of Hell,"['Deep Silver', 'High Voltage Software', 'Volition']",3,3.06,430,66
+135,Forza Horizon 4,['Playground Games'],1,4.34,769,90
+136,Little Nightmares,"['BANDAI NAMCO Entertainment America Inc.', 'Tarsier Studios']",2,4.1,512,81
+137,Dead by Daylight,"['Behaviour Digital Inc.', 'Behaviour Interactive']",2,3.45,458,72
+138,Furi,['The Game Bakers'],1,3.83,454,76
+139,Dark Souls: Remastered,"['FromSoftware', 'QLOC']",2,4.39,681,84
+140,The LEGO NINJAGO Movie Video Game,"[""Traveller's Tales"", 'Warner Bros. Interactive']",2,3.29,59,70
+141,Steep,"['Ubisoft', 'Ubisoft Annecy', 'Ubisoft Kiev', 'Ubisoft Montpellier']",4,3.41,573,72
+142,Mass Effect: Andromeda,['BioWare'],1,3.23,687,73
+143,Sniper Elite 4,['Rebellion'],1,3.52,395,78
+144,Stellaris,['Paradox Development Studio'],1,4.23,384,78
+145,Enter the Gungeon,"['Devolver Digital', 'Dodge Roll']",2,4.19,531,84
+146,Frostpunk,['11 Bit Studios'],1,4.19,427,85
+147,A Way Out,"['Electronic Arts', 'Hazelight']",2,4.09,685,78
+148,HELLDIVERS,['Arrowhead Game Studios'],1,3.57,410,83
+149,Yakuza Kiwami,['Ryu ga Gotoku Studio'],1,4.03,425,83
+150,Dirty Bomb,['Splash Damage®'],1,2.81,246,63
+151,Crypt of the NecroDancer,"['Brace Yourself Games', 'BRACE YOURSELF GAMES INC.']",2,4.08,364,87
+152,Super Mario Odyssey,['Nintendo'],1,4.44,1117,97
+153,SpeedRunners,"['DoubleDutch Games', 'tinyBuild']",2,3.76,288,84
+154,The Surge,"['Deck13', 'Focus Home Interactive']",2,3.22,379,72
+155,Warhammer: End Times - Vermintide,['Fatshark'],1,3.53,292,79
+156,TERA,"['Bluehole, Inc.', 'En Masse Entertainment, Inc.']",2,2.92,286,77
+157,Snake Pass,['Sumo Digital'],1,3.35,140,71
+158,A Plague Tale: Innocence,"['Asobo Studio', 'Focus Home Interactive']",2,4.21,427,82
+159,Gris,['Nomada Studio'],1,4.28,464,83
+160,Her Story,['Sam Barlow'],1,4.04,373,88
+161,Gears 5,['The Coalition'],1,3.93,393,83
+162,Grim Dawn,['Crate Entertainment'],1,3.96,320,83
+163,Titan Souls,"['Acid Nerve', 'Devolver Digital']",2,3.35,287,74
+164,This is the Police,"['HandyGames', 'THQ Nordic', 'Weappy Studio']",3,3.9,397,66
+165,Beholder,"['Alawar Entertainment', 'Warm Lamp Games']",2,3.76,329,75
+166,Shadow Warrior 2,"['Devolver Digital', 'Flying Wild Hog']",2,3.51,352,78
+167,Days Gone,['SIE Bend Studio'],1,3.91,394,71
+168,Day of the Tentacle Remastered,['Double Fine Productions'],1,3.68,262,86
+169,ARK: Survival Evolved,"['Efecto Studios', 'Instinct Games', 'Studio Wildcard', 'Virtual Basement LLC', 'WILDCARD PROPERTIES']",5,3.12,255,70
+170,Fractured Space,['Edge Case Games Ltd.'],1,2.56,112,79
+171,Red Faction Guerrilla Re-Mars-tered,"['Kaiko', 'THQ Nordic', 'Volition']",3,3.48,190,70
+172,"Invisible, Inc.",['Klei Entertainment'],1,3.47,245,82
+173,Warhammer: Vermintide 2,['Fatshark'],1,3.7,354,82
+174,Need for Speed,['Ghost Games'],1,3.31,478,66
+175,The Last Guardian,"['Sony Interactive Entertainment', 'Team Ico', 'SIE Japan Studio']",3,4.13,476,82
+176,Gwent: The Witcher Card Game,"['CD PROJEKT RED', 'CD PROJEKT SA']",2,3.68,512,80
+177,RUINER,"['Devolver Digital', 'Reikon Games']",2,3.75,354,78
+178,South Park: The Fractured but Whole,['Ubisoft San Francisco'],1,4.05,485,80
+179,Hyper Light Drifter,"['Heart Machine', 'Heart Machine LLC', 'Abylight S.L.']",3,4.19,340,84
+180,Slay the Spire,"['Mega Crit Games', 'Mega Crit', 'Humble Bundle']",3,4.39,476,87
+181,Injustice 2,"['NetherRealm Studios', 'QLOC', 'Warner Bros. Interactive']",3,3.99,546,88
+182,Plague Inc: Evolved,['Ndemic Creations'],1,3.98,335,80
+183,Outlast 2,['Red Barrels'],1,3.68,296,76
+184,Kerbal Space Program,['Squad'],1,4.18,235,88
+185,Elite Dangerous,"['Frontier Developments', 'Frontier Developments PLC']",2,4.0,256,80
+186,Far Cry Primal,['Ubisoft'],1,3.63,423,74
+187,Hellblade: Senua's Sacrifice VR Edition,['Ninja Theory'],1,3.92,141,87
+188,Borderlands 3,"['2K', 'Gearbox Software']",2,3.95,299,80
+189,PAC-MAN CHAMPIONSHIP EDITION 2,['Bandai Namco Entertainment'],1,3.51,68,77
+190,The Evil Within 2,"['Bethesda Softworks', 'Tango Gameworks']",2,4.11,438,82
+191,OKAMI HD / 大神 絶景版,['Capcom'],1,4.15,228,92
+192,Mortal Kombat 11,"['NetherRealm Studios', 'QLOC', 'Shiver Games', 'Warner Bros. Interactive']",4,3.97,424,82
+193,Serial Cleaner,"['Curve Digital', 'iFun4all S.A.', 'East2west Network Tech. Co. Ltd.']",3,3.21,78,72
+194,DISTRAINT,['Jesse Makkonen'],1,3.01,154,76
+195,Shadow Tactics: Blades of the Shogun,"['Daedalic Entertainment', 'Mimimi Productions']",2,4.18,215,85
+196,Mirage: Arcane Warfare,['Torn Banner Studios'],1,2.24,127,74
+197,FIFA 18,"['Electronic Arts', 'Electronic Arts Canada']",2,3.43,461,79
+198,>observer_,['Bloober Team S.A.'],1,3.9,273,77
+199,Sea of Thieves,['Rare'],1,3.56,420,68
+200,Tom Clancy's Ghost Recon Wildlands,"['Reflections', 'Ubisoft', 'Ubisoft Annecy', 'Ubisoft Bucharest', 'Ubisoft Milan', 'Ubisoft Montpellier', 'Ubisoft Paris']",7,3.59,422,72
+201,Ashes of the Singularity: Escalation,"['Oxide Games', 'Stardock Entertainment']",2,2.38,24,81
+202,Dishonored: Death of the Outsider,"['Arkane Studios', 'Bethesda Softworks']",2,4.06,313,83
+203,My Friend Pedro,"['DeadToast Entertainment', 'Deadtoast']",2,3.85,330,76
+204,Disco Elysium,['ZA/UM'],1,4.26,180,91
+205,TEKKEN 7,"['BANDAI NAMCO Entertainment America Inc.', 'Bandai Namco Entertainment']",2,4.06,402,82
+206,Hand of Fate,['Defiant Development'],1,3.71,228,78
+207,Into the Breach,['Subset Games'],1,4.32,473,90
+208,Wasteland 2: Director's Cut,['InXile Entertainment'],1,3.62,200,87
+209,Full Throttle Remastered,"['Double Fine Productions', 'Shiny Shoe']",2,4.03,276,77
+210,Street Fighter V,"['Capcom', 'Capcom U.S.A., Inc.']",2,3.7,232,74
+211,EA SPORTS FIFA 17,"['Electronic Arts', 'Electronic Arts Canada']",2,3.31,349,85
+212,Punch Club,"['Lazy Bear Games', 'tinyBuild']",2,3.66,240,73
+213,Bulletstorm: Full Clip Edition,['People Can Fly'],1,3.85,373,76
+214,Crash Bandicoot N. Sane Trilogy,"['Activision', 'Toys for Bob', 'Vicarious Visions', 'Iron Galaxy']",4,4.12,284,81
+215,Absolver,"['Devolver Digital', 'Sloclap']",2,2.84,290,69
+216,Kingdom: New Lands,"['Licorice', 'Noio', 'Raw Fury']",3,3.84,232,80
+217,Apotheon,"['Alientrap', 'Alientrap Games Inc', 'Alientrap Games']",3,3.17,241,78
+218,Everybody's Gone to the Rapture,"['Sony Interactive Entertainment', 'The Chinese Room']",2,3.36,348,76
+219,Gears of War 4,['The Coalition'],1,3.92,423,85
+220,Downwell,"['Devolver Digital', 'Moppin']",2,3.89,321,81
+221,Spyro Reignited Trilogy,"['Activision', 'Toys for Bob', 'Iron Galaxy']",3,4.15,233,80
+222,Tricky Towers,"['WeirdBeard', 'WEIRDBEARD B.V.', 'Marcus Dobler Applications UG (haftungsbeschränkt)']",3,3.59,273,80
+223,Lovers in a Dangerous Spacetime,"['Asteroid Base Inc', 'Asteroid Base', 'Asteroid Base Inc.']",3,3.54,268,80
+224,Shadowrun: Hong Kong - Extended Edition,['Harebrained Schemes'],1,3.8,154,81
+225,OlliOlli2: Welcome to Olliwood,"['Roll7', 'Roll 7']",2,3.32,201,82
+226,Pyre,['Supergiant Games'],1,4.21,308,84
+227,Tom Clancy’s The Division 2,"['Massive Entertainment', 'Ubisoft']",2,3.79,419,83
+228,Battlefield Hardline,"['Electronic Arts', 'Visceral Games', 'Electronic Arts DICE']",3,3.19,372,72
+229,NBA 2K16,"['2K', 'Visual Concepts']",2,2.95,233,86
+230,Vampyr,"['DONTNOD Entertainment', 'Focus Home Interactive', 'Saber Interactive', 'DONTNOD']",4,3.52,383,70
+231,The Turing Test,"['Bulkhead Interactive', 'BULKHEAD INTERACTIVE LIMITED']",2,3.59,192,74
+232,Kingdom Hearts III,['Square Enix'],1,3.83,339,82
+233,Tyranny,['Obsidian Entertainment'],1,4.11,271,80
+234,A Hat in Time,"['Gears for Breakfast', 'Humble Bundle, Inc.']",2,4.36,286,77
+235,Mutant Year Zero: Road to Eden,"['Funcom Oslo A/S', 'The Bearded Ladies Consulting', 'The Bearded Ladies']",3,3.79,306,78
+236,Owlboy,"['D-Pad Studio', 'D-Pad Studios']",2,3.8,220,88
+237,Battlefield V,"['Electronic Arts', 'Electronic Arts DICE', 'Uprise']",3,3.57,433,77
+238,Moonlighter,"['11 Bit Studios', 'Digital Sun']",2,3.83,241,80
+239,Resident Evil HD Remaster,['Capcom'],1,4.26,293,82
+240,Kathy Rain,"['Clifftop Games', 'Raw Fury']",2,2.75,89,77
+241,Darksiders III,"['Gunfire Games', 'THQ Nordic']",2,3.42,287,68
+242,Portal Knights,"['505 Games', 'Keen Games']",2,3.02,245,72
+243,Life is Strange 2,['DONTNOD Entertainment'],1,3.81,300,76
+244,Faeria,['Abrakam SA'],1,2.92,139,80
+245,The Banner Saga 2,"['Stoic', 'Versus Evil']",2,4.18,222,82
+246,Mini Metro,"['Dinosaur Polo Club', 'Playdigious', 'Radial Games']",3,4.1,278,77
+247,Pathologic Classic HD,"['General Arcade', 'Ice-Pick Lodge']",2,3.88,132,76
+248,Keep Talking and Nobody Explodes,"['Steel Crate Games', 'STEEL CRATE GAMES, INC.']",2,4.24,223,67
+249,Two Point Hospital,"['Two Point Studios', 'GAMESDROP LTD']",2,3.78,182,84
+250,EA SPORTS FIFA 16,"['Electronic Arts', 'Electronic Arts Canada']",2,3.27,286,79
+251,FIFA 19,['Electronic Arts Vancouver'],1,3.39,398,80
+252,DiRT Rally 2.0,['Codemasters'],1,3.49,105,83
+253,Crossout,['Targem Games'],1,2.85,248,68
+254,Horizon Chase Turbo,['Aquiris Game Studio'],1,3.33,205,78
+255,Halo 5: Guardians,['343 Industries'],1,3.77,338,84
+256,Divide By Sheep,"['Denis Novikov', 'tinyBuild', 'Victor Solodilov']",3,2.46,93,83
+257,SteamWorld Heist,"['Image & Form', 'Image & Form International AB']",2,3.96,190,81
+258,ZOMBI,"['Straight Right', 'Ubisoft']",2,2.83,251,65
+259,Fallout 76,['Bethesda Game Studios'],1,2.54,283,51
+260,Night in the Woods,"['Finji', 'Infinite Fall', 'bombsfall', 'InfiniteAmmo']",4,4.3,355,88
+261,Surviving Mars,"['Haemimont Games', 'Paradox Interactive']",2,3.72,197,75
+262,LET IT DIE,"['Gungho Online', 'Grasshopper Manufacture', 'SUPERTRICK  GAMES,Inc.']",3,3.08,232,72
+263,RAGE 2,"['Avalanche Studios', 'id Software']",2,3.19,359,71
+264,Gran Turismo Sport,['Polyphony Digital'],1,3.98,392,75
+265,Project CARS,['Slightly Mad Studios'],1,3.53,161,83
+266,Forza Horizon 3,['Playground Games'],1,4.34,418,88
+267,Victor Vran,['Haemimont Games'],1,3.38,155,75
+268,Sherlock Holmes: The Devil's Daughter,['Frogwares'],1,3.71,160,65
+269,Super Smash Bros. Ultimate,"['Nintendo', 'Bandai Namco Entertainment', 'Sora Ltd.']",3,4.36,683,93
+270,Return Of The Obra Dinn,"['3909', 'Lucas Pope', 'dukope']",3,4.32,334,88
+271,Graveyard Keeper,"['Lazy Bear Games', 'tinyBuild']",2,3.68,194,68
+272,Ni no Kuni II: Revenant Kingdom,"['BANDAI NAMCO Entertainment America Inc.', 'Level 5']",2,3.89,286,82
+273,Tearaway Unfolded,['Media Molecule'],1,3.72,262,81
+274,Call of Duty: Black Ops 4,"['Beenox', 'Raven Software', 'Treyarch']",3,3.51,349,84
+275,The Final Station,"['Andrey Rumak', 'Do My Best', 'Oleg Sergeev', 'tinyBuild']",4,3.84,215,76
+276,Not A Hero,"['Devolver Digital', 'Roll7', 'Roll 7']",3,3.29,178,75
+277,Blasphemous,['The Game Kitchen'],1,4.01,150,78
+278,Nuclear Throne,['Vlambeer'],1,4.08,170,88
+279,Pony Island,['Daniel Mullins Games'],1,4.03,187,86
+280,Slime Rancher,"['Monomi Park', 'Monomi Park, LLC']",2,3.79,234,81
+281,Fortified,['Clapfoot'],1,2.08,101,66
+282,The Escapists,"['Mouldy Toof Studios', 'Team17 Digital']",2,3.44,141,71
+283,Total War: WARHAMMER,"['Creative Assembly', 'Feral Interactive']",2,4.0,182,86
+284,Mark of the Ninja: Remastered,['Klei Entertainment'],1,4.18,193,89
+285,Sunless Sea,['Failbetter Games'],1,3.84,148,81
+286,Planet Coaster,['Frontier Developments'],1,4.0,172,84
+287,Yooka-Laylee,"['Playtonic Games', 'Team17 Digital']",2,3.03,146,73
+288,Orcs Must Die! Unchained,['Robot Entertainment'],1,2.97,158,87
+289,Katana ZERO,['Askiisoft'],1,4.42,347,83
+290,TALES OF BERSERIA,"['BANDAI NAMCO Entertainment America Inc.', 'Bandai Namco Entertainment']",2,3.99,157,80
+291,Overwatch,"['Blizzard Entertainment, Inc.']",1,4.25,625,91
+292,Old Man's Journey,['Broken Rules'],1,3.58,157,77
+293,Zombie Army Trilogy,['Rebellion'],1,3.3,120,72
+294,Armello,"['League of Geeks', 'LEAGUE OF GEEKS PTY LTD']",2,3.58,138,75
+295,Need for Speed Payback,['Ghost Games'],1,3.25,313,61
+296,Salt and Sanctuary,"['Ska Studios', 'SKA STUDIOS LLC']",2,3.88,206,84
+297,Overcooked! 2,"['Ghost Town Games Ltd.', 'Team17 Digital']",2,4.25,310,81
+298,The Council,['Big Bad Wolf'],1,3.67,156,76
+299,Party Hard,"['Kverta', 'Pinokl Games', 'tinyBuild']",3,3.55,156,64
+300,American Truck Simulator,['SCS Software'],1,3.92,136,76
+301,Mario Kart 8 Deluxe,['Nintendo'],1,4.4,609,92
+302,Call of Duty: Infinite Warfare,['Infinity Ward'],1,3.54,308,73
+303,Project CARS 2,['Slightly Mad Studios'],1,3.78,116,86
+304,The Walking Dead: Michonne,['Telltale Games'],1,3.31,241,66
+305,Bloodstained: Ritual of the Night,"['505 Games', 'Armature Studio', 'Inti Creates', 'Dico', 'ArtPlay']",5,3.99,217,81
+306,Dead Rising 4,['Capcom Vancouver'],1,3.2,127,74
+307,Homeworld Remastered Collection,"['Gearbox Software', 'Aspyr Media']",2,4.07,113,86
+308,Homefront: The Revolution,"['Dambuster Studios', 'Deep Silver']",2,2.99,211,54
+309,DRAGON BALL FighterZ,"['Arc System Works', 'BANDAI NAMCO Entertainment America Inc.', 'Arc System Works Co.']",3,4.23,266,86
+310,Pathfinder: Kingmaker,['Owlcat Games'],1,3.94,135,73
+311,Mega Man Legacy Collection / ロックマン クラシックス コレクション,"['Capcom', 'Capcom U.S.A., Inc.', 'Digital Eclipse']",3,3.68,117,85
+312,Batman: The Enemy Within,['Telltale Games'],1,3.79,256,68
+313,State of Decay 2,['Undead Labs'],1,3.16,268,68
+314,Outer Wilds,"['Mobius Digital, LLC', 'Mobius Digital']",2,4.18,186,84
+315,Poly Bridge,"['Dry Cactus', 'Dry Cactus Limited']",2,3.4,112,73
+316,Dishonored Definitive Edition,['Arkane Studios'],1,4.38,295,78
+317,The Walking Dead: A New Frontier,['Telltale Games'],1,3.54,311,71
+318,Hearts of Iron IV,['Paradox Development Studio'],1,4.18,151,83
+319,WipEout Omega Collection,['Sony Interactive Entertainment'],1,3.58,201,85
+320,Iconoclasts,"['Joakim Sandberg', 'Bifrost Entertainment Ltd']",2,3.76,259,86
+321,Anthem,"['BioWare', 'Electronic Arts']",2,2.7,316,59
+322,The Deadly Tower of Monsters,['ACE Team'],1,3.24,151,73
+323,Planescape: Torment: Enhanced Edition,"['Beamdog', 'Black Isle Studios', 'Overhaul Games']",3,4.31,147,85
+324,Minit,"['Devolver Digital', 'JW, Kitty, Jukio, and Dominik', 'JW, Kitty, Jukio, and Dom', 'and Dom', 'Jukio', 'JW', 'Kitty']",7,3.85,164,78
+325,Last Day of June,"['505 Games', 'Ovosonico']",2,3.3,85,79
+326,Jurassic World Evolution,"['Frontier Developments', 'Frontier Developments PLC']",2,3.64,153,71
+327,Battle Chasers: Nightwar,"['Airship Syndicate', 'HandyGames', 'THQ Nordic']",3,3.71,144,79
+328,Burnout Paradise Remastered,['Electronic Arts'],1,3.94,231,80
+329,Just Cause 4,"['Avalanche Studios', 'Square Enix']",2,3.04,204,68
+330,Late Shift,"['CtrlMovie', 'Wales Interactive']",2,3.53,185,80
+331,12 is Better Than 6,['Ink Stains Games'],1,3.45,107,66
+332,Worms W.M.D,['Team17 Digital'],1,3.74,121,79
+333,Guacamelee! 2,['DrinkBox Studios'],1,4.18,140,85
+335,"Gremlins, Inc.","['Alexey Bokulev', 'Charlie Oscar Lima Tango Interactive Entertainment', 'Sergei Klimov']",3,3.63,90,75
+336,Shenmue I & II,"['d3t', 'SEGA', 'D3T Limited']",3,3.56,61,75
+337,Baba Is You,"['Hempuli Oy', 'Hempuli']",2,4.4,255,86
+338,Gears of War: Ultimate Edition,"['Epic Games', 'The Coalition']",2,4.1,255,78
+339,Styx: Shards of Darkness,['Cyanide Studio'],1,3.41,100,72
+340,Neon Chrome,"['10tons Ltd', '10tons']",2,2.99,111,74
+341,Untitled Goose Game,['House House'],1,4.1,289,80
+342,MASSIVE CHALICE,['Double Fine Productions'],1,3.17,102,73
+343,Duck Game,"['Adult Swim', 'Landon Podbielski']",2,4.22,158,82
+344,Hue,"['Curve Digital', 'Fiddlesticks Games', 'Serkan Binici', 'Fiddlesticks']",4,3.32,190,79
+345,Evoland 2,"['Playdigious', 'Plug In Digital', 'Shiro Games']",3,3.66,96,74
+346,Uncanny Valley,"['Cowardly Creations', 'Digerati Distribution']",2,3.0,100,67
+347,Offworld Trading Company,['Mohawk Games'],1,3.48,71,78
+348,Endless Space 2,['Amplitude Studios'],1,3.93,135,82
+349,FIFA 20,"['Electronic Arts Vancouver', 'Electronic Arts Sports']",2,3.1,197,68
+350,The Escapists 2,"['Mouldy Toof Studios', 'Team17 Digital']",2,3.42,106,74
+351,SoulCalibur VI,"['BANDAI NAMCO Entertainment America Inc.', 'Bandai Namco Entertainment']",2,3.79,106,83
+352,Obduction,"['Cyan Worlds', 'Cyan, Inc.']",2,3.02,90,76
+353,NARUTO SHIPPUDEN: Ultimate Ninja STORM 4,"['BANDAI NAMCO Entertainment America Inc.', 'CyberConnect2 Co.']",2,4.07,232,80
+354,CAYNE,['THE BROTHERHOOD'],1,2.61,66,75
+355,Reigns,"['Devolver Digital', 'Nerial']",2,3.81,194,77
+356,ReCore,"['Armature Studio', 'Comcept']",2,3.37,225,60
+357,Hard Reset Redux,"['Flying Wild Hog', 'Gambitious']",2,3.41,69,73
+358,Mother Russia Bleeds,"['Devolver Digital', 'Le Cartel Studio']",2,3.56,159,70
+359,EVERSPACE,['ROCKFISH Games'],1,3.34,134,80
+360,Momodora: Reverie Under the Moonlight,"['ACTIVE GAMING MEDIA INC', 'Bombservice']",2,3.94,103,82
+361,Vertiginous Golf,['Kinelco & Lone Elk Creative'],1,2.76,48,63
+362,Deponia Doomsday,['Daedalic Entertainment'],1,4.24,108,76
+363,Hidden Folks,"['Adriaan de Jongh', 'Sylvain Tegroeg']",2,3.79,147,78
+364,Moon Hunters,"['JEUX KITFOX INC.', 'Kitfox Games']",2,3.39,79,62
+365,Far Cry New Dawn,"['Ubisoft', 'Ubisoft Montreal']",2,3.43,253,73
+366,Torment: Tides of Numenera,['Techland'],1,3.61,135,81
+367,Tales of Zestiria,"['BANDAI NAMCO Entertainment America Inc.', 'Bandai Namco Entertainment']",2,3.61,149,77
+368,Divinity: Original Sin 2 - Definitive Edition,['Larian Studios'],1,4.42,296,93
+369,The Sexy Brutale,"['Cavalier Game Studios', 'Tequila Works', 'Tequila Works S.L.']",3,3.69,101,83
+370,Chroma Squad,"['BANDAI NAMCO Entertainment America Inc.', 'Behold Studios']",2,3.52,66,75
+371,Virginia,"['505 Games', 'Variable State']",2,3.27,169,74
+372,I am Bread,['Bossa Studios'],1,3.17,123,60
+373,DRAGON QUEST XI: Echoes of an Elusive Age,"['Square Enix', 'Armor Project']",2,4.33,225,86
+374,Epistory - Typing Chronicles,"['Fishing Cactus', 'Plug In Digital']",2,3.78,77,74
+375,Shadow of the Colossus  (2018),"['SCE Japan Studio', 'Bluepoint Games']",2,4.33,346,91
+376,Batman: The Telltale Series,['Telltale Games'],1,3.65,166,79
+377,Ken Follett's The Pillars of the Earth,['Daedalic Entertainment'],1,3.72,51,79
+378,"Warhammer 40,000: Dawn of War III","['Relic Entertainment', 'Feral Interactive']",2,3.14,97,77
+379,Remnant: From the Ashes,"['Gunfire Games', 'PERFECT WORLD ENTERTAINMENT INC.']",2,3.56,146,79
+380,Half-Life 2: Update,['Valve Software'],1,4.17,42,96
+381,Thronebreaker: The Witcher Tales,"['CD PROJEKT RED', 'CD PROJEKT SA']",2,4.08,241,84
+382,Assassin's Creed III: Remastered,['Ubisoft Montreal'],1,3.43,202,71
+383,ClusterTruck,"['Landfall', 'tinyBuild', 'Landfall Games']",3,3.78,166,76
+384,Beat Saber,"['Hyperbolic Magnetism', 'Beat Games', 'Beat Games s.r.o.']",3,4.38,296,90
+385,DiRT 4,"['Codemasters', 'Feral Interactive']",2,3.63,150,78
+386,Hard West,"['CreativeForge Games', 'Creative Forge Games', 'Good Shepherd Entertainment', 'CreativeForge Games S.A.']",4,3.38,113,73
+387,Unravel Two,"['Coldwood Interactive', 'Electronic Arts']",2,4.01,228,79
+388,Grey Goo,['Petroglyph'],1,3.49,51,77
+389,Sundered,['Thunder Lotus Games'],1,3.16,80,76
+390,FINAL FANTASY XV WINDOWS EDITION,['Square Enix'],1,3.93,181,81
+391,Hitman GO: Definitive Edition,['Square Enix Montréal'],1,3.63,119,72
+392,Wolfenstein: Youngblood,"['Arkane Studios', 'Bethesda Softworks', 'Machine Games']",3,2.52,203,66
+393,Mighty No. 9,"['Abstraction Games', 'Comcept', 'Engine Software', 'Inti Creates', '8-4']",5,2.35,146,52
+394,Card Hunter,['Blue Manchu'],1,3.33,79,80
+395,Else Heart.Break(),"['El Huervo / Niklas Åkerblad', 'Erik Svedäng', 'Johannes Gotlén', 'Oscar ""Ratvader"" Rydelius', 'Tobias Sjögren', 'Erik Svedäng AB']",6,2.33,43,79
+396,The Dark Pictures: Man of Medan,['Supermassive Games'],1,3.46,216,71
+397,Call of Duty: Modern Warfare (2019),"['Activision', 'Beenox', 'Infinity Ward']",3,3.74,240,80
+398,Q.U.B.E. 2,"['Toxic Games', 'Trapped Nerve Games']",2,3.52,100,75
+399,Human Resource Machine,"['Experimental Gameplay Group', 'Tomorrow Corporation']",2,3.95,129,78
+400,Axiom Verge,['Thomas Happ Games LLC'],1,3.99,178,80
+401,Dauntless,"['Phoenix Games', 'ISOLGAMES']",2,3.1,237,78
+402,Pillars of Eternity II: Deadfire,['Obsidian Entertainment'],1,4.21,167,82
+403,Phantom Doctrine,"['CreativeForge Games', 'Gambitious', 'Creative Forge Games']",3,3.45,53,71
+404,Heroes of Might & Magic III - HD Edition,"['DotEmu', 'Ubisoft']",2,4.23,201,65
+405,Devil Daggers,['Sorath'],1,3.83,100,83
+406,Battleborn,"['2K', 'Gearbox Software']",2,2.77,122,69
+407,Stories Untold,['No Code'],1,3.88,113,81
+408,Volume,['Bithell Games'],1,2.93,59,80
+409,The Jackbox Party Pack 2,"['Jackbox Games', 'Jackbox Games, Inc.']",2,4.12,125,76
+410,Kona,"['Deep Silver', 'Parabole']",2,3.37,72,73
+411,Book of Demons,['Thing Trunk'],1,3.85,88,72
+412,Secret World Legends,['Funcom'],1,2.82,74,76
+413,Nex Machina,['Housemarque'],1,4.01,101,89
+414,Block N Load,"['Artplant', 'Jagex']",2,2.37,68,72
+415,FINAL FANTASY TYPE-0 HD,['Square Enix'],1,3.19,134,69
+416,We Happy Few,"['Compulsion Games', 'Gearbox Publishing']",2,3.05,175,64
+417,Void Bastards,['Blue Manchu'],1,3.77,175,78
+418,Rising Storm 2: VIETNAM,"['Antimatter Games', 'Tripwire Interactive']",2,3.82,71,81
+419,Gravity Rush 2,['Sony Interactive Entertainment'],1,3.95,189,80
+420,Tumblestone,['The Quantum Astrophysicists Guild'],1,2.56,41,91
+421,Verdun,"['Blackmill Games', 'M2H']",2,3.46,76,70
+422,BattleTech,['Harebrained Schemes'],1,3.64,90,78
+423,911 Operator,"['Jutsu Games', 'PlayWay', 'Games Operators', 'Games Operators S.A.']",4,3.48,69,68
+424,Do Not Feed the Monkeys,"['Alawar Entertainment', 'Fictiorama Studios']",2,3.78,96,79
+425,SUPERHOT VR,"['SUPERHOT Team', 'SUPERHOT Sp. z o.o.']",2,4.37,228,85
+426,Pathologic 2,['Ice-Pick Lodge'],1,4.01,110,66
+428,Gigantic,"['Motiga', 'Motiga Inc.']",2,2.85,100,75
+429,GRIP: Combat Racing,"['Caged Element Inc.', 'Wired Productions', 'Caged Element']",3,2.99,91,68
+430,EA SPORTS UFC 3,['Electronic Arts'],1,3.69,177,76
+431,"Cook, Serve, Delicious! 2!!",['Vertigo Gaming'],1,3.55,62,74
+432,GoNNER,['Art in Heart'],1,3.02,54,81
+433,The Red Strings Club,['Deconstructeam'],1,4.24,155,80
+434,The Descendant,['Gaming Corps AB'],1,2.08,39,59
+435,Shelter 2,['Might and Delight'],1,3.34,67,58
+436,Galactic Civilizations III,['Stardock Entertainment'],1,3.55,38,81
+437,Duelyst,['Counterplay Games Inc.'],1,3.36,78,82
+438,Wuppo,"['Knuist & Perzik', 'SOEDESCO Publishing', 'Perzik', 'Knuist']",4,3.08,39,80
+439,Children of Morta,['Dead Mage'],1,4.12,103,80
+440,Burly Men at Sea,"['Brain&Brain', 'Seaven Studio', 'Brain&Brain LLC', 'Brain & Brain']",4,2.83,155,82
+441,Move or Die,"['Reverb Publishing', 'Those Awesome Guys']",2,3.77,90,80
+442,Aviary Attorney,['Sketchy Logic'],1,3.48,27,77
+443,RUNNING WITH RIFLES,['Osumia Games'],1,3.32,44,78
+444,Sine Mora EX,"['Digital Reality', 'Gyroscope Games', 'THQ Nordic', 'Grasshopper Manufacture']",4,3.28,46,82
+445,Windward,"['Tasharen Entertainment Inc.', 'Tasharen Entertainment']",2,2.71,45,61
+446,Friday the 13th: The Game,"['GUN MEDIA HOLDINGS, INC', 'IllFonic']",2,3.14,154,61
+447,SteamWorld Dig 2,"['Image & Form', 'Image and Form', 'Image & Form Games', 'Image', 'Form International AB']",5,4.17,221,88
+448,Seven: The Days Long Gone,"[""Fool's Theory"", 'IMGN.PRO']",2,3.24,48,68
+449,ACE COMBAT 7: SKIES UNKNOWN,"['BANDAI NAMCO Entertainment America Inc.', 'Project Aces', 'Bandai Namco Entertainment']",3,4.03,131,79
+450,Need for Speed Heat,['Ghost Games'],1,3.1,113,73
+451,World of Warships,"['Lesta Studio', 'Wargaming Group Limited', 'Wargaming.net']",3,3.43,78,81
+452,Seasons After Fall,"['Focus Home Interactive', 'Swing Swing Submarine']",2,3.29,84,75
+453,Silence,['Daedalic Entertainment'],1,3.28,32,75
+454,LEGO Jurassic World,"[""Traveller's Tales"", 'Warner Bros. Interactive', 'Feral Interactive', 'TT Games']",4,3.7,108,72
+455,Crackdown 3,"['Sumo Digital', 'Reagent Games', 'Cloudgine']",3,2.84,189,57
+456,Dex,"['Badland Games, S.L.', 'Dreadlocks Ltd.', 'Dreadlocks Ltd']",3,3.52,78,62
+457,Splasher,"['Plug In Digital Ltd', 'Splashteam']",2,3.33,27,79
+458,The Jackbox Party Pack 3,"['Jackbox Games', 'Jackbox Games, Inc.']",2,4.2,153,80
+459,Scanner Sombre,['Introversion Software'],1,2.97,31,67
+460,Crazy Machines 3,['Fakt Software'],1,3.05,38,71
+461,Samorost 3,['Amanita Design'],1,4.13,91,80
+462,Bad North,"['Raw Fury', 'Plausible concept']",2,3.63,78,70
+463,Everything,"[""David O'Reilly"", 'David OReilly']",2,3.7,127,78
+464,NBA 2K17,"['2K', 'Visual Concepts']",2,3.33,95,90
+465,How to Survive 2,"['505 Games', 'Eko Software']",2,3.05,58,69
+466,WildStar,['Carbine Studios'],1,3.24,86,82
+467,Battle Chef Brigade,"['Adult Swim', 'Trinket Studios']",2,3.48,60,81
+468,World War Z (2019),['Saber Interactive'],1,3.47,168,70
+469,Project Highrise,"['Kalypso Media', 'SomaSim', 'Kalypso Media Mobile GmbH']",3,3.66,67,73
+470,Fortnite Battle Royale,['Epic Games'],1,3.18,354,82
+471,Nova-111,"['Carbon', 'Curve Digital', 'Funktronic Labs']",3,2.4,70,68
+472,Aragami,"['Lince Works', 'LINCE WORKS S.L.']",2,3.54,107,71
+473,Blair Witch,['Bloober Team S.A.'],1,3.1,145,66
+474,Dandara,"['Raw Fury', 'Long Hat House']",2,3.22,58,75
+475,EARTH DEFENSE FORCE 4.1 The Shadow of New Despair,"['SANDLOT', 'XSEED JKS Inc']",2,3.62,70,79
+476,Distrust,"['Alawar Entertainment', 'Cheerdealers']",2,3.13,60,75
+477,Greedfall,['Spiders'],1,3.55,126,74
+478,Thumper,"['Drool', 'Drool LLC']",2,4.22,177,85
+479,Thimbleweed Park,"['Terrible Toybox', 'Terrible Toybox, Inc.']",2,3.99,150,84
+480,Fire Emblem: Three Houses,"['Intelligent Systems', 'Koei Tecmo']",2,4.36,262,89
+481,Immortal Redneck,"['Crema', 'Crema Games', 'CremaGames S.L']",3,3.6,49,69
+482,NBA Playgrounds,"['Saber Interactive', 'Mad Dog Games LLC']",2,3.0,68,67
+483,War for the Overworld,['Brightrock Games'],1,2.93,38,65
+484,Forza Motorsport 6,['Turn 10 Studios'],1,4.07,117,87
+485,Call of Cthulhu,['Cyanide Studio'],1,3.54,152,66
+486,Beat Cop,"['11 Bit Studios', 'Pixel Crow']",2,3.92,63,71
+487,Tharsis,['Choice Provisions'],1,3.04,26,61
+488,ELEX,"['Piranha Bytes', 'THQ Nordic']",2,3.35,164,59
+489,Atlas Reactor,['Trion Worlds'],1,2.98,58,81
+490,Zombie Night Terror,"['NoClip', 'Plug In Digital', 'Good Shepherd Entertainment']",3,3.37,42,81
+491,The Dwarves,"['KING Art', 'THQ Nordic']",2,3.19,36,61
+492,Agents of Mayhem,"['Deep Silver', 'Volition']",2,2.93,104,70
+493,Monster Prom,['Beautiful Glitch'],1,3.87,69,73
+494,WWE 2K16,"['2K', 'Visual Concepts', ""Yuke's"", ""Yuke's Games""]",4,2.71,95,74
+495,Overture,['Black Shell Games'],1,2.06,18,76
+496,Rock of Ages 2: Bigger & Boulder,['ACE Team'],1,3.39,45,77
+497,Yakuza Kiwami 2,"['SEGA', 'Ryu ga Gotoku Studio']",2,4.32,154,84
+498,Age of Empires II: Definitive Edition,"['Wicked Witch', 'Tantalus', 'Forgotten Empires']",3,4.17,88,84
+499,Total War: WARHAMMER II,['Creative Assembly'],1,4.31,116,86
+500,State of Mind,['Daedalic Entertainment'],1,3.38,32,68
+501,Death's Gambit,"['Adult Swim', 'White Rabbit']",2,3.5,45,72
+502,CODE VEIN,"['BANDAI NAMCO Entertainment America Inc.', 'Bandai Namco Entertainment']",2,3.68,72,72
+503,Blackguards 2,"['Daedalic Entertainment', 'Kalypso Media']",2,3.14,28,74
+504,UNCHARTED The Nathan Drake Collection,['Bluepoint Games'],1,4.39,306,86
+505,The Swindle,"['Curve Digital', 'Size Five Games', 'Dan Marshall']",3,2.91,74,70
+506,NBA 2K20,"['2K', 'Visual Concepts']",2,3.2,67,76
+507,GALAK-Z,['17-BIT'],1,3.14,28,78
+508,N++ (NPLUSPLUS),['Metanet Software Inc.'],1,4.15,91,90
+509,The Age of Decadence,['Iron Tower Studio'],1,3.9,63,81
+510,Fran Bow,"['Killmonday Games', 'Killmonday Games AB']",2,4.23,88,70
+511,Domina,['DolphinBarn'],1,3.42,65,73
+512,Hyperdimension Neptunia Re;Birth1 / 超次次元ゲイム ネプテューヌRe;Birth1,"['COMPILE HEART Co., Ltd.', 'FELISTELLA Co., Ltd.', 'IDEA FACTORY Co., Ltd.']",3,3.37,60,72
+513,Hunt: Showdown,['Crytek'],1,3.76,85,79
+514,Emily is Away Too,['Kyle Seeley'],1,3.96,69,81
+515,The Witcher 3: Game of the Year,['CD PROJEKT RED'],1,4.76,382,92
+516,Headlander,"['Adult Swim', 'Double Fine Productions']",2,3.42,71,74
+517,Sudden Strike 4,"['Kalypso Media', 'Kite Games']",2,3.14,27,77
+518,Mario + Rabbids Kingdom Battle,"['Ubisoft Milan', 'Ubisoft Paris']",2,4.12,247,85
+519,Hidden Agenda,"['PlayStation Mobile Inc.', 'Supermassive Games']",2,3.37,145,66
+520,Cat Quest,"['PQUBE LTD', 'The Gentlebros', 'The Gentlebros Pte. Ltd.']",3,3.73,111,77
+521,Oceanhorn: Monster of Uncharted Seas,"['Cornfox & Bros.', 'FDG Entertainment GmbH & Co.KG', 'Bros.', 'Cornfox']",4,3.49,57,74
+522,Marvel's Guardians of the Galaxy: The Telltale Series,['Telltale Games'],1,3.47,122,72
+523,Dungeon Fighter Online,['Neople'],1,2.67,45,78
+524,MORDHAU,['Triternion'],1,4.06,121,81
+525,INK,"['Digerati Distribution', 'ZackBellGames', 'kittehface', 'Spaceboy']",4,2.97,38,68
+526,Zero Escape: Zero Time Dilemma,"['Aksys Games', 'Spike Chunsoft Co., Ltd.', 'Spike Chunsoft', 'Chime']",4,4.06,116,78
+527,Car Mechanic Simulator 2015,"['PlayWay', 'Red Dot Games']",2,3.31,48,68
+528,Train Valley,"['Alexey Davydov', 'Sergey Dvoynikov', 'Timofey Shargorodskiy']",3,3.38,45,69
+529,Goetia,"['Forever Entertainment S.A.', 'Sushee']",2,2.8,14,79
+530,F1 2019,['Codemasters'],1,3.95,43,87
+531,Viridi,['Ice Water Games'],1,2.93,44,46
+532,Pokémon Sword and Shield,['Game Freak'],1,3.74,231,80
+533,Rusty Lake: Roots,"['LoyaltyGame B.V.', 'Rusty Lake']",2,3.86,73,75
+534,Anna's Quest,['Daedalic Entertainment'],1,3.6,34,74
+535,Paradigm,['Jacob Janerka'],1,3.31,27,86
+536,The Crew 2,"['Ubisoft', 'Ivory Tower']",2,3.26,151,66
+537,The Gardens Between,['The Voxel Agents'],1,3.81,110,79
+538,The Walking Dead: The Final Season,['Telltale Games'],1,4.09,170,78
+539,eFootball PES 2020,['Konami Digital Entertainment'],1,3.36,74,82
+540,The Banner Saga 3,"['Stoic', 'Versus Evil']",2,4.21,134,83
+541,Audiosurf 2,['Dylan Fitterer'],1,3.82,113,76
+542,Action Henk,"['Curve Digital', 'RageSquid']",2,2.62,29,74
+543,The Darkside Detective,['Spooky Doorway'],1,3.41,29,73
+544,The Swords of Ditto,"['Devolver Digital', 'onebitbeyond', 'Devolver']",3,3.47,56,74
+545,Steel Rats,['Tate Multimedia'],1,2.97,32,66
+546,Rakuen,['Laura Shigihara'],1,3.18,27,84
+547,Wargroove,['Chucklefish'],1,3.71,134,83
+548,LawBreakers,"['Boss Key Productions', 'Nexon America Inc.']",2,2.65,94,77
+549,Holy Potatoes! A Weapon Shop?!,"['Daylight Studios', 'Rising Star Games', 'Daylight Studios Pte. Ltd.', 'Daylight Studios Pte Ltd']",4,3.35,30,69
+550,STRAFE,"['Devolver Digital', 'Pixel Titans', 'Nanovation']",3,2.96,46,66
+551,Luigi's Mansion 3,['Nintendo'],1,4.36,157,86
+552,Octopath Traveler,"['ACQUIRE Corp.', 'Square Enix']",2,3.84,165,82
+553,The Lion's Song: Episode 1 - Silence,"[""Mi'pu'mi Games"", ""Mi'pu'mi Games GmbH""]",2,3.26,35,78
+554,Total War: ATTILA,['Creative Assembly'],1,4.02,88,80
+555,Rain World,"['Adult Swim', 'Videocult']",2,3.8,44,66
+556,JumpJet Rex,"['LOOT™ Interactive', 'TreeFortress Games']",2,3.07,28,76
+557,A Short Hike,['adamgryu'],1,4.39,95,78
+558,Dropsy,"['A Jolly Corpse', 'Devolver Digital', 'Tendershoot']",3,3.17,36,80
+559,Rampage Knights,['Rake in Grass'],1,3.63,38,80
+560,Halcyon 6: Starbase Commander,"['Massive Damage, Inc.', 'Massive Damage']",2,2.54,28,71
+561,Hektor,['Rubycone'],1,2.29,16,55
+562,ADR1FT,"['505 Games', 'THREE ONE ZERO']",2,3.47,55,64
+563,Hatred,['Destructive Creations'],1,3.01,82,43
+564,Pikuniku,"['Alan Zucconi', 'Devolver Digital', 'Arnaud De Bock', 'Rémi Forcadell', 'Calum Bowen']",5,4.04,66,75
+565,NBA 2K19,"['2K', 'Visual Concepts']",2,3.44,151,81
+566,Mages of Mystralia,"['Borealys Games', 'Borealys Games Inc.']",2,3.2,15,75
+567,Horizon Zero Dawn: The Frozen Wilds,['Guerrilla Games'],1,4.49,247,83
+568,BADLAND: Game of the Year Edition,['Frogmind'],1,3.8,55,79
+569,She Remembered Caterpillars,"['jumpsuit entertainment UG (haftungsbeschränkt)', 'jumpsuit entertainment UG']",2,3.39,23,82
+570,Astral Chain,['Platinum Games'],1,4.31,140,87
+571,ArcheAge,['XLGAMES'],1,3.07,57,80
+573,Mushroom 11,['Untame'],1,3.08,24,78
+574,Get Even,"['BANDAI NAMCO Entertainment America Inc.', 'The Farm 51']",2,3.62,61,75
+575,Detention,"['RedCandleGames', 'Coconut Island dba Shanghai Kena Information Technology Co., Ltd']",2,4.05,76,83
+576,DISTRAINT: Deluxe Edition,"['Jesse Makkonen', 'Winterveil Studios Oy']",2,2.86,64,73
+577,Event[0],['Ocelot Society'],1,3.52,46,75
+578,Assault Android Cactus,"['Witch Beam', 'Witch Beam Games PTY LTD']",2,3.66,59,79
+579,The Witcher 3: Wild Hunt - Hearts of Stone,['CD PROJEKT RED'],1,4.73,348,90
+580,Brigador,"['Gausswerks', 'Stellar Jockeys']",2,3.16,31,70
+581,Splatoon 2,['Nintendo'],1,4.24,261,84
+582,BlazBlue: Chrono Phantasma EXTEND,"['Aksys Games', 'Arc System Works']",2,3.79,28,82
+583,Bleed 2,"['Digerati Distribution', 'Ian Campbell', 'BOOTDISK REVOLUTION', 'BootdiskRevolution']",4,3.26,21,83
+584,Slain: Back from Hell,"['Andrew Gilmour', 'Digerati Distribution', 'Stage Clear Studios']",3,3.44,54,74
+585,RONIN,"['Devolver Digital', 'Tomasz Wacławek']",2,3.5,35,70
+586,Final Fantasy XII: The Zodiac Age,['Square Enix'],1,4.25,111,87
+587,Duskers,['Misfits Attic'],1,3.48,19,83
+588,Legends of Eisenwald,['Aterdux Entertainment'],1,3.28,32,71
+589,Supraland,['Supra Games'],1,4.0,40,85
+590,Danganronpa V3: Killing Harmony,"['NIS America Inc.', 'Spike Chunsoft Co., Ltd.']",2,4.3,113,80
+591,Lakeview Cabin Collection,['Roope Tamminen'],1,3.0,28,70
+592,APE OUT,"['Devolver Digital', 'Gabe Cuzzillo', 'Gabe Cuzillo']",3,4.08,153,84
+593,Dangerous Golf,"['Three Fields Entertainment', 'Three Fields Entertainment LTD']",2,2.96,28,54
+594,Citizens of Earth,"['Atlus U.S.A., Inc.', 'Eden Industries']",2,2.75,24,66
+595,Ashen,"['Aurora44', 'A44']",2,3.53,134,77
+597,Turmoil,"['Gamious', 'Gamious B.V.']",2,3.33,48,73
+598,Oh...Sir!! The Insult Simulator,"['Vile Monarch', 'Vile Monarch Sp. z o. o. Sp. k.', 'Good Shepherd Entertainment']",3,3.39,56,64
+599,Okhlos: Omega,['Coffee Powered Machine'],1,3.22,18,69
+600,Mordheim: City of the Damned,['Rogue Factor'],1,3.07,29,74
+601,Zero Escape: The Nonary Games,"['Aksys Games', 'Spike Chunsoft Co., Ltd.']",2,4.31,103,86
+602,Bloodstained: Curse of the Moon,['Inti Creates'],1,3.86,117,78
+603,Beyond Eyes,"['Tiger and Squid', 'Team17 Digital']",2,2.98,40,60
+604,Shiness: The Lightning Kingdom,"['Enigami', 'Focus Home Interactive']",2,2.8,20,68
+605,Odallus: The Dark Call,['JoyMasher'],1,3.59,22,80
+606,Song of the Deep,"['GameTrust Games', 'Insomniac Games']",2,3.56,41,71
+607,Halo Wars 2,"['Creative Assembly', '343i']",2,3.84,115,79
+608,Forza Horizon 2 Presents Fast & Furious,"['Sumo Digital', 'Playground Games']",2,3.8,84,61
+609,The Witcher 3: Wild Hunt - Blood and Wine,['CD PROJEKT RED'],1,4.74,300,92
+610,Between Me and The Night,['RainDance LX'],1,2.29,21,62
+611,Homeworld: Deserts of Kharak,"['Blackbird Interactive', 'Gearbox Software']",2,3.96,52,79
+612,A Fistful of Gun,['FarmerGnome'],1,2.33,15,60
+613,Maize,['Finish Line Games'],1,2.69,26,65
+614,Lumo,"['Rising Star Games', 'Spiral House', 'Triple Eh?']",3,2.58,96,77
+615,Technobabylon,"['Technocrat Games', 'Wadjet Eye Games LLC', 'Technocrat']",3,4.04,26,82
+616,Deathtrap,['NeoCoreGames'],1,3.03,36,77
+617,The Warlock of Firetop Mountain,['Tin Man Games'],1,2.95,19,70
+618,Trine 4: The Nightmare Prince,['Frozenbyte'],1,4.0,44,80
+619,Road to Ballhalla,"['tinyBuild', 'Torched Hill']",2,2.84,19,75
+620,Redout: Lightspeed Edition,"['34BigThings srl', '34BigThings', 'windfallsoft']",3,3.72,39,81
+621,Whispers of a Machine,"['Clifftop Games', 'Faravid Interactive', 'Raw Fury']",3,3.31,13,77
+622,They Are Billions,"['BlitWorks', 'Numantian Games']",2,4.1,101,74
+623,Pneuma: Breath of Life,"['Bevel Studios', 'Deco Digital', 'DECO DIGITAL LIMITED']",3,2.91,54,63
+624,Forts,['EarthWork Games'],1,3.05,21,74
+625,Halo Wars: Definitive Edition,"['343 Industries', 'Behaviour Interactive', 'Ensemble Studios']",3,3.74,93,81
+626,Jump Force,"['BANDAI NAMCO Entertainment America Inc.', 'Spike Chunsoft Co., Ltd.', 'SPIKE CHUNSOFT Co.']",3,2.38,91,59
+627,The Technomancer,['Spiders'],1,2.98,81,56
+628,SKYHILL,"['Daedalic Entertainment', 'Mandragora']",2,3.12,42,63
+629,Pinstripe,"['Thomas Brush', 'Atmos Games', 'Armor Games Inc.']",3,3.28,46,70
+630,Valhalla Hills,"['Daedalic Entertainment', 'Funatics Software']",2,2.43,23,69
+631,WASTED,['Mr. Podunkian'],1,2.27,15,68
+632,Duke Nukem 3D: 20th Anniversary World Tour,"['Gearbox Publishing', 'Gearbox Software']",2,4.14,59,72
+633,Observation,"['Devolver Digital', 'No Code']",2,3.94,98,77
+634,The Jackbox Party Pack 4,"['Jackbox Games', 'Jackbox Games, Inc.']",2,4.07,85,78
+635,Day of Infamy,['New World Interactive'],1,3.93,43,77
+636,PLANET ALPHA,"['Team17 Digital', 'Planet Alpha ApS']",2,3.47,30,71
+637,FAR: Lone Sails,"['Okomotive', ""Mr. Whale's Game Service"", 'MIXTVISION']",3,4.27,135,84
+638,Kenshi,['Lo-Fi Games'],1,4.12,57,75
+639,The Sinking City,['Frogwares'],1,3.23,110,66
+640,Override: Mech City Brawl,"['Modus Games LLC', 'The Balance Inc']",2,3.0,10,64
+641,World to the West,"['Rain AS', 'Rain Games']",2,2.88,16,75
+642,Darksiders Genesis,['Airship Syndicate'],1,3.65,58,76
+643,Shantae: Half-Genie Hero,['WayForward Technologies'],1,3.96,92,76
+644,OneShot,['Little Cat Feet'],1,4.13,81,84
+645,Marvel vs. Capcom: Infinite,"['Capcom', 'Capcom U.S.A., Inc.']",2,3.13,97,73
+646,"Pokémon Sun, Moon",['Game Freak'],1,3.79,204,87
+647,UnderRail,['Stygian Software'],1,4.09,30,72
+648,Xenoblade Chronicles 2,['Monolith Soft'],1,4.3,166,83
+649,Beholder 2,"['Alawar Entertainment', 'Warm Lamp Games']",2,3.77,43,76
+650,Yakuza 6: The Song of Life,"['SEGA', 'Ryu ga Gotoku Studio']",2,4.39,95,83
+651,The Surge 2,"['Deck13', 'Deck 13', 'Focus Home Interactive', 'Deck 13 Interactive']",4,3.73,50,76
+652,DEADBOLT,"['Code Mystics', 'Hopoo Games, LLC', 'Hopoo Games']",3,3.85,52,76
+653,Decay: The Mare,"['Daedalic Entertainment', 'Shining Gate Software']",2,2.71,21,60
+654,Flat Heroes,['Parallel Circles'],1,3.19,31,82
+655,Sayonara Wild Hearts,['Simogo'],1,4.41,124,85
+656,Slime-san,['Fabraz'],1,2.81,21,78
+657,ICEY,"['Shanghai FantaBlade Network Technology Co., Ltd.', 'X.D. Network Inc.', 'FantaBlade Network', 'X.D. Network']",4,3.41,63,84
+658,Space Run Galaxy,['Passtech Games'],1,2.29,14,75
+659,Guild of Dungeoneering,"['Gambrinous', 'Versus Evil']",2,3.71,33,72
+660,Below,['Capybara Games'],1,3.24,105,71
+661,Shadwen,['Frozenbyte'],1,3.04,19,53
+662,Catherine: Full Body,"['Atlus', 'SEGA of America, Inc.']",2,4.07,57,82
+663,Five Nights at Freddy's: Sister Location,['Scott Cawthon'],1,2.52,21,62
+664,The Little Acre,"['Curve Digital', 'Pewter Games Studios']",2,3.39,28,62
+665,STASIS,['THE BROTHERHOOD'],1,3.63,40,79
+666,In Between,"['Gentlymad', 'Headup']",2,2.44,17,68
+667,Dead Synchronicity: Tomorrow Comes Today,"['Badland Games, S.L.', 'Fictiorama Studios']",2,3.25,32,70
+668,PRO EVOLUTION SOCCER 2019,['Konami Digital Entertainment'],1,3.39,134,80
+669,The Messenger (2018),['Sabotage'],1,4.41,127,84
+670,Hand of Fate 2,['Defiant Development'],1,3.88,73,81
+671,Monster Hunter World: Iceborne,['Capcom'],1,4.5,61,89
+672,Insurgency: Sandstorm,['New World Interactive'],1,4.01,84,78
+673,Cibele,['Star Maid Games'],1,2.39,31,71
+674,Astro Bot: Rescue Mission,"['Sony Interactive Entertainment', 'SIE Japan Studio', 'Japan Studio']",3,4.22,110,90
+675,Job Simulator,"['Owlchemy Labs', 'OWLCHEMY LABS, INC.']",2,3.92,81,68
+676,The End Is Nigh,"['Edmund McMillen', 'Nicalis', 'Tyler Glaiel']",3,3.77,75,83
+677,Dungeon Souls,"['Lamina Studios', 'Mike Studios']",2,3.04,24,67
+678,Tokyo 42,"['Mode 7 Limited', 'SMAC Games']",2,3.31,36,71
+679,Absolute Drift,"['FlippFly', 'Funselektor Labs Inc.', 'Noodlecake Studios Inc']",3,3.65,34,66
+680,Diaries of a Spaceport Janitor,"['Sundae Month', 'tinyBuild']",2,3.48,21,69
+681,The Magic Circle,['Question'],1,3.42,35,79
+682,Forgotton Anne,"['Hitcents.com, Inc.', 'Square Enix', 'ThroughLine Games']",3,3.87,57,80
+683,Husk,['UndeadScout'],1,2.36,14,44
+684,Death Road to Canada,"['Madgarden', 'Noodlecake Studios Inc', 'Rocketcat Games', 'Rocketcat LLC', 'UKIYO PUBLISHING LIMITED']",5,3.8,44,91
+685,Afterparty,['Night School Studio'],1,3.62,47,74
+686,Pro Evolution Soccer 2018,['Konami Digital Entertainment'],1,3.54,100,84
+687,Blood Bowl 2,['Cyanide Studio'],1,3.35,49,76
+688,Age of Wonders: Planetfall,"['Paradox Interactive', 'Triumph Studios']",2,3.68,47,81
+689,Metrico+,['Digital Dreams'],1,2.06,18,66
+690,Redeemer,"['Sobaka', 'Sobaka Studio']",2,3.38,32,64
+691,Tom Clancy's Ghost Recon Breakpoint,['Ubisoft'],1,2.48,76,59
+692,Strange Brigade,['Rebellion'],1,3.3,83,72
+693,We Are The Dwarves,['Whale Rock Games'],1,2.76,17,60
+694,Master of Orion,['NGD Studios'],1,3.57,54,74
+695,Etherborn,"['Altered Matter', 'ALTERED MATTER GAMES, SL']",2,3.27,11,69
+696,Trials of the Blood Dragon,"['Redlynx', 'Ubisoft', 'Ubisoft Kiev']",3,3.32,71,54
+697,Chronicle: RuneScape Legends,['Jagex'],1,2.78,27,76
+698,F1 2018,['Codemasters'],1,3.91,75,84
+699,Spintires: MudRunner,"['Focus Home Interactive', 'Saber Interactive']",2,3.97,63,72
+700,Rusty Lake Hotel,"['LoyaltyGame B.V.', 'Rusty Lake']",2,3.93,54,65
+701,Big Pharma,['Twice Circled'],1,3.34,29,72
+702,Ninja Senki DX,['Tribute Games Inc.'],1,2.53,53,72
+703,Tales of Vesperia: Definitive Edition,"['QLOC', 'Bandai Namco Entertainment']",2,3.37,84,81
+704,Hide and Shriek,['Funcom'],1,2.79,24,68
+705,BUTCHER,"['CRUNCHING KOALAS SP. Z O.O.', 'Transhuman Design']",2,3.3,20,70
+706,Artifact,['Valve Software'],1,3.04,83,76
+707,Hot Tin Roof: The Cat That Wore A Fedora,['Glass Bottom Games'],1,2.07,15,66
+708,Shiftlings,"['Activision', 'Rock Pocket Games']",2,2.29,6,70
+709,Dream Daddy: A Dad Dating Simulator,"['Game Grumps', 'Game Grumps Inc']",2,3.84,55,73
+710,Pit People,['The Behemoth'],1,3.65,72,78
+711,Ash of Gods,['AurumDust'],1,3.77,56,65
+712,POSTAL Redux,['Running With Scissors'],1,3.21,28,54
+713,Immortal Planet,['teedoubleuGAMES'],1,2.09,11,65
+714,Heat Signature,['Suspicious Developments'],1,4.02,61,79
+715,Total War Battles: KINGDOM,"['Creative Assembly', 'SEGA']",2,1.68,19,67
+716,Super Rude Bear Resurrection,"['Alex Rose', 'VORPAL GAMES LTD']",2,2.42,12,78
+717,"Guns, Gore & Cannoli","['Claeys Brothers', 'Crazy Monkey Studios', 'CRAZY MONKEY STUDIOS BVBA', 'Claeysbrothers']",4,3.79,60,74
+718,Disgaea PC,"['Nippon Ichi Software, Inc.']",1,4.0,22,74
+719,Toren,"['Swordtales', 'Versus Evil']",2,2.82,28,57
+720,The Way,['Puzzling Dream'],1,3.31,24,67
+721,Bomber Crew,"['Curve Digital', 'Runner Duck']",2,3.59,54,75
+722,Chaos Reborn,"['Snapshot Games Inc.', 'Snapshot Games']",2,2.7,10,85
+723,Valkyria Chronicles 4,['SEGA'],1,3.89,46,83
+724,Convoy,['Convoy Games'],1,3.29,16,72
+725,Hover: Revolt Of Gamers,"['Fusty Game', 'Midgar Studio', 'Plug In Digital Ltd', 'Playdius']",4,2.93,14,69
+726,The Deer God,"['Blowfish Studios', 'Cinopt Studios', 'Crescent Moon Games', 'LEVEL 77 PTY LTD', 'Mobot Studios']",5,2.69,29,59
+727,GNOG,"['KO-OP MODE INC.', 'KO_OP']",2,3.91,51,76
+728,Concrete Jungle,"['ColePowered Games', 'ColePowered Games Ltd.']",2,3.74,19,76
+729,DOOM VFR,"['Bethesda Softworks', 'id Software']",2,3.75,64,70
+730,Life is Feudal: Your Own,['Bitbox Ltd.'],1,2.75,34,63
+731,Planet of the Eyes,"['Cococucumber', 'Cococucumber Inc']",2,2.42,12,66
+732,Grow Up,"['Ubisoft', 'Ubisoft Reflections']",2,3.8,59,71
+733,Florence,"['Annapurna Interactive', 'Studio Mountains', 'Mountains']",3,4.2,126,86
+734,Lucius II,['Shiver Games'],1,2.69,26,48
+735,The Book of Unwritten Tales 2,"['KING Art Games', 'The Adventure Company']",2,3.08,25,80
+736,Crashlands,"['Butterscotch Shenanigans', 'Butterscotch Shenanigans, LLC']",2,4.03,30,78
+737,Outward,"['Deep Silver', 'Nine Dots Studio']",2,3.63,48,65
+738,Ninja Pizza Girl,"['Disparity Games', 'Disparity Games Pty. Ltd.']",2,3.15,13,82
+739,Chuchel,['Amanita Design'],1,3.82,101,80
+740,Sea of Solitude,"['Electronic Arts', 'JO-MEI GAMES']",2,3.19,42,68
+741,Arizona Sunshine,"['Jaywalkers Interactive', 'Vertigo Games']",2,3.7,37,81
+742,Livelock,"['PERFECT WORLD ENTERTAINMENT INC.', 'Tuque Games']",2,2.86,50,73
+743,99Vidas,['QUByte Interactive'],1,3.06,70,69
+744,HEX: Shards of Fate,['Hex Entertainment'],1,3.25,20,87
+745,Bloodsports.TV,"['Fatshark', 'Toadman Interactive']",2,2.0,10,69
+746,Katamari Damacy REROLL,"['Monkeycraft', 'MONKEYCRAFT Co. Ltd.']",2,4.3,60,84
+747,Rebuild 3: Gangs of Deadsville,"['Northway Games', 'Northway Games Corp.', 'Sarah Northway']",3,3.15,13,75
+748,The Count Lucanor,"['Baroque Decay', 'Merge Games Limited', 'Ratalaika Games']",3,3.88,31,78
+749,Bulb Boy,"['Bulbware', 'Bulbware Sp. z o.o.', 'Daedalic Entertainment']",3,3.23,25,84
+750,BLACKHOLE,['FiolaSoft Studio'],1,2.53,15,82
+751,Unbox,['Prospect Games'],1,3.24,17,68
+752,Sniper Ghost Warrior 3 Season Pass Edition,"['CI Games', '4EversGames']",2,3.32,31,57
+753,Flinthook,['Tribute Games Inc.'],1,3.58,32,80
+754,Armikrog,"['Pencil Test Studios', 'Versus Evil']",2,3.0,49,57
+755,Farming Simulator 17,"['Focus Home Interactive', 'Giants Software']",2,3.76,55,69
+756,Penarium,"['Self Made Miracle', 'Team17 Digital']",2,3.08,10,80
+757,World War II Online,['Cornered Rat Software'],1,2.24,17,73
+758,Telling Lies,"['Annapurna Interactive', 'Sam Barlow', 'Furious Bee Limited']",3,3.74,39,82
+759,Spellweaver,['Dream Reactor'],1,2.5,16,63
+760,HoPiKo,"['Laser Dog', 'Merge Games Limited']",2,2.5,10,82
+761,The Binding of Isaac: Afterbirth+,['Nicalis'],1,4.35,158,85
+762,Yesterday Origins,"['Anuman Interactive', 'Microids', 'Pendulo Studios']",3,3.71,24,74
+763,Moss,"['Polyarc, Inc.', 'Polyarc']",2,4.25,51,83
+764,Space Hulk: Deathwing,['Streum On Studio'],1,2.91,30,58
+765,XCOM 2: War of the Chosen,['Firaxis'],1,4.34,149,95
+766,Ghostbusters,"['Activision', 'FireForge Games', 'Terminal Reality']",3,3.1,41,33
+767,Conarium,['Zoetrope Interactive'],1,3.4,33,73
+768,The Bug Butcher,"['Awfully Nice Studios', 'Noodlecake Studios Inc', 'Triangle Studios BV']",3,3.27,26,81
+769,The Masterplan,['Shark Punch'],1,3.09,11,68
+770,The Solus Project,"['Grip Digital S.R.O.', 'Grip Games', 'Hourences', 'Teotl Studios']",4,3.47,30,68
+771,Small Radios Big Televisions,"['Adult Swim', 'Fire Face Corporation', 'Owen Deery']",3,2.87,15,67
+772,Draugen,['Red Thread Games'],1,3.58,59,73
+773,Order of Battle: World War II,['The Artistocrats'],1,2.22,9,81
+774,Sid Meier's Starships,"['2K', 'Firaxis']",2,2.75,16,64
+775,Anno 1800,['Blue Byte'],1,4.25,72,81
+776,Avernum 2: Crystal Souls,['Spiderweb Software'],1,2.12,8,78
+777,Pro Evolution Soccer 2017,['Konami Digital Entertainment'],1,3.66,62,69
+778,Cadence of Hyrule - Crypt of the NecroDancer Featuring the Legend of Zelda,"['Brace Yourself Games', 'Spike Chunsoft Co., Ltd.']",2,4.13,89,85
+779,Gemini: Heroes Reborn,['Phosphor Games'],1,3.22,8,54
+780,SWORD ART ONLINE: Fatal Bullet,"['BANDAI NAMCO Entertainment America Inc.', 'DIMPS']",2,3.51,43,66
+781,Tropico 6,['Limbic Entertainment'],1,3.71,56,77
+782,Forager,['HopFrog'],1,4.1,61,78
+783,Fe,"['Electronic Arts', 'Zoink!']",2,3.03,72,71
+784,NieR:Automata Game of the YoRHa Edition,['Platinum Games'],1,4.14,71,91
+785,Subject 13,"['Anuman Interactive', 'Microids', 'Paul Cuisset']",3,3.13,15,59
+786,F1 2017,"['Codemasters', 'Feral Interactive']",2,3.92,48,89
+787,Madden NFL 18,['Electronic Arts'],1,3.45,65,83
+788,Moons of Madness,['Rock Pocket Games'],1,3.47,35,65
+789,West of Loathing,['Asymmetric'],1,4.29,71,88
+790,Deliver Us the Moon,['KeokeN Interactive'],1,3.59,55,74
+791,Uurnog Uurnlimited,"['Raw Fury', 'Nifflas Games']",2,1.86,7,74
+792,F1 2016,"['Codemasters', 'Feral Interactive']",2,3.89,37,86
+793,Oh...Sir! Prototype,['Vile Monarch'],1,2.43,14,64
+794,Monument Valley 2,['ustwo games'],1,4.34,124,85
+795,LEGO DC Super-Villains,"[""Traveller's Tales"", 'Warner Bros. Interactive']",2,3.77,43,74
+796,Bedlam,"['RedBedlam', 'Vision Games Publishing']",2,2.63,19,54
+797,Candle: The Power of the Flame,"['Merge Games Limited', 'Teku Studios']",2,3.47,17,80
+798,Loot Rascals,"['Hollow Ponds', 'Hollow Ponds Games Ltd']",2,2.46,13,71
+799,Aurion: Legacy of the Kori-Odan,"[""Kiro'o Games"", 'Playdius']",2,1.5,6,69
+800,Concrete Genie,['Pixelopus'],1,3.84,31,75
+801,Sorcery! Parts 1 and 2,['inkle Ltd'],1,2.9,10,69
+802,Dicey Dungeons,"['Terry Cavanagh', 'chipzel', 'Marlowe Dobbe']",3,4.3,33,80
+803,The Curious Expedition,['Maschinen-Mensch'],1,4.23,26,74
+804,Cradle,['Flying Cafe for Semianimals'],1,3.83,46,65
+805,Generation Zero (2019),['Avalanche Studios'],1,2.3,43,49
+806,Yoshi's Crafted World,['Good-Feel'],1,3.71,66,79
+807,Dead Effect 2,"['App Holdings', 'BadFly Interactive', 'BadFly Interactive, a.s.']",3,2.92,26,53
+808,Nidhogg 2,['Messhof'],1,3.91,65,80
+809,Party Hard 2,"['Kverta', 'Pinokl Games']",2,3.46,25,74
+810,The Escapists: The Walking Dead,['Team17 Digital'],1,2.71,31,66
+811,Last Word,['Twelve Tiles'],1,3.57,7,67
+812,The Park,"['Funcom', 'Funcom Oslo A/S']",2,3.12,39,67
+813,Blues and Bullets,['A Crowd of Monsters'],1,3.37,26,73
+814,Deltarune (Chapter 1),"['Toby Fox', '8-4']",2,4.37,137,81
+815,Pirate Pop Plus,['dadako'],1,1.67,6,65
+816,The Last Door: Season 2 - Collector's Edition,"['Phoenix Online Studios', 'The Game Kitchen']",2,3.43,14,85
+817,Trials Rising,"['Redlynx', 'Ubisoft']",2,3.73,60,81
+818,"Warhammer 40,000: Regicide","['Hammerfall Publishing', 'Hammerfall Publishing Global']",2,3.21,22,72
+819,Ion Fury,"['Voidpoint', 'Voidpoint, LLC']",2,4.21,40,78
+820,Transport Fever,"['Urban Games', 'Good Shepherd Entertainment']",2,3.85,40,71
+821,A Normal Lost Phone,"['Accidental Queens', 'Plug In Digital', 'Seaven Studio', 'Playdius', 'Dear Villagers']",5,3.56,39,71
+822,Hatsune Miku: Project DIVA Future Tone,['SEGA'],1,3.56,62,84
+823,Five Nights at Freddy's 3,['Scott Cawthon'],1,2.7,40,68
+824,FRAMED Collection,['Loveshack Entertainment'],1,4.05,19,79
+825,Out of the Park Baseball 17,['Out of the Park Developments'],1,2.9,10,92
+826,You Must Build A Boat,"['EightyEightGames', 'EightyEight Games LTD', 'EightyEight Games', 'LucaRedwood']",4,3.57,30,71
+827,Thea: The Awakening,"['MuHa Games', 'Tactile Fusion Ltd']",2,3.41,22,73
+828,Tormentum - Dark Sorrow,['OhNoo Studio'],1,3.89,34,72
+829,Dyscourse,['Owlchemy Labs'],1,3.0,13,71
+830,ZHEROS,['Rimlight Studios'],1,2.54,28,58
+831,WWE 2K17,"['2K', 'Visual Concepts', ""Yuke's Co., LTD"", 'Yukes Games']",4,3.09,45,61
+832,Layers of Fear 2,"['GUN MEDIA HOLDINGS, INC', 'Bloober Team S.A.']",2,3.25,57,67
+833,Battle Brothers,['Overhype Studios'],1,4.0,49,80
+834,Sword Coast Legends,"['Digital Extremes', 'n-Space']",2,3.22,23,61
+835,Zenith,"['Badland Games, S.L.', 'Infinigon']",2,2.75,16,57
+836,Extreme Exorcism,['Golden Ruby Games'],1,2.79,42,75
+837,Bounty Train,['Corbie Games'],1,2.93,15,66
+838,EA SPORTS NHL 17,['Electronic Arts'],1,3.42,52,78
+839,Muse Dash,"['X.D. Network Inc.', 'PeroPeroGames', 'X.D. Network']",3,3.88,25,73
+840,On Rusty Trails,"['Black Pants Studio', 'Black Pants Studio GmbH']",2,2.57,7,77
+841,Anno 2205,['Blue Byte'],1,3.81,59,72
+842,Expeditions: Viking,['Logic Artists'],1,3.84,30,74
+843,1979 Revolution: Black Friday,"['Digerati Distribution', 'iNK Stories', 'N-Fusion Interactive']",3,3.54,26,80
+844,Kingdom: Two Crowns,"['Coatsink', 'Noio', 'Raw Fury']",3,4.13,62,84
+845,The Silver Case,"['AGM PLAYISM', 'NIS America Inc.', 'Grasshopper Manufacture']",3,3.6,20,67
+846,Zombie Vikings,['Zoink!'],1,2.95,22,74
+847,Dream,['HyperSloth'],1,2.33,12,59
+848,FORCED SHOWDOWN,['BetaDwarf'],1,3.36,14,67
+850,Venetica - Gold Edition,['Deck13'],1,3.67,9,61
+851,Skyshine's BEDLAM,['Skyshine Games'],1,3.04,25,67
+852,Cosmic Star Heroine,['Zeboyd Games'],1,3.34,31,77
+853,The Bunker,"['Channel 4', 'Splendy Interactive', 'Wales Interactive', 'Splendy Games']",4,3.28,39,57
+854,Downfall,['Harvester Games'],1,4.26,31,75
+855,Impact Winter,"['BANDAI NAMCO Entertainment America Inc.', 'Mojo Bones']",2,2.6,10,62
+856,Planetbase,"['Madruga Works', 'Madruga Works Limited']",2,3.52,29,70
+857,Monster Slayers,"['Digerati Distribution', 'Nerdook Productions']",2,3.5,8,86
+858,Frozen Cortex,['Mode 7'],1,2.86,7,79
+859,Trover saves the Universe,"['Squanchtendo', 'Squanch Games', 'Squanch Games, Inc.', 'Squanch Games, LLC (AKA  Squanchtendo, LLC )']",4,4.06,35,77
+860,Green Hell,['Creepy Jar'],1,3.61,23,77
+861,Shadows: Awakening,"['Games Farm', 'Kalypso Media', 'Games Farm s.r.o.']",3,3.55,28,73
+862,Rez Infinite,"['Enhance Games', 'Monstars Inc.', 'Resonair']",3,4.29,53,91
+863,Seraph,"['Dreadbit', 'Dreadbit Ltd']",2,2.86,14,80
+864,Football Manager 2018,['Sports Interactive'],1,4.0,73,81
+865,Football Manager 2019,['Sports Interactive'],1,4.12,77,86
+866,Youtubers Life,['U-Play Online'],1,2.82,38,63
+867,Total Annihilation,['Cavedog Entertainment'],1,4.36,32,86
+868,NeverEnd,"['Duck', 'Evgeniy Kolpakov t/a Sometimes You']",2,2.0,9,44
+869,Mario Tennis Aces,"['Nintendo', 'Camelot']",2,3.76,86,75
+870,Battlefleet Gothic: Armada,['Tindalos Interactive'],1,3.86,21,77
+871,The Long Journey Home,"['Daedalic Entertainment', 'Daedalic Studio West']",2,2.9,8,68
+872,Sunless Skies,['Failbetter Games'],1,4.1,21,87
+873,Aporia: Beyond The Valley,['Investigate North'],1,2.91,11,71
+874,Through the Woods,"['Antagonist', '1C Publishing EU s.r.o.']",2,3.05,19,63
+875,EA SPORTS NHL 18,['Electronic Arts'],1,3.48,50,76
+876,Dungelot: Shattered Lands,"['Red Winter Software', 'tinyBuild']",2,3.47,19,78
+877,I Expect You To Die,"['Schell Games', 'Schell Games LLC']",2,4.4,42,76
+878,Omensight,['Spearhead Games'],1,3.62,23,75
+879,Judgment (2019),['Ryu ga Gotoku Studio'],1,4.27,30,80
+880,Mainlining,['Rebelephant'],1,3.5,10,73
+881,Yuppie Psycho,['Baroque Decay'],1,4.31,31,81
+882,Persona 5: Dancing in Starlight,"['Atlus U.S.A., Inc.', 'P Studio']",2,3.85,46,72
+883,CLANNAD,"['VisualArts/Key', 'PROTOTYPE CO., LTD.']",2,4.5,22,83
+884,Yonder: The Cloud Catcher Chronicles,['Prideful Sloth'],1,3.51,34,70
+885,Woolfe - The Red Hood Diaries,['GRIN'],1,3.15,20,55
+886,Kingsway,['Andrew Morrish'],1,3.75,14,79
+887,Scrap Garden,"['Alexey Davydov', 'Egidijus Bachur']",2,2.22,9,58
+888,Albert and Otto,"['Digerati Distribution', 'K Bros Games', 'Mokuni LLC', 'K Bros Entertainment LLC']",4,3.43,6,69
+889,Shadow Blade: Reload,"['Crescent Moon Games', 'Dead Mage', 'Dead Mage Inc']",3,3.3,10,70
+890,The Jackbox Party Pack 6,"['Jackbox Games', 'Jackbox Games, Inc.']",2,4.13,23,75
+891,Metroid: Samus Returns,"['Nintendo', 'MercurySteam Entertainment', 'MercurySteam Entertainment / Nintendo']",3,4.33,68,88
+892,VoidExpanse,['AtomicTorch Studio'],1,3.0,11,59
+893,Blacksad: Under the Skin,"['Pendulo Studios', 'YS Interactive']",2,3.79,36,63
+894,Rogue Stormers,"['Black Forest Games', 'Black Forest Games GmbH']",2,3.0,10,68
+895,Close To The Sun,['Storm in a Teacup'],1,3.57,32,66
+896,Dragon Saga,['Gravity Interactive'],1,3.41,17,65
+898,Three Fourths Home: Extended Edition,['[bracket]games'],1,3.42,19,77
+899,Super Cloudbuilt,"['Coilworks', 'Coilworks, Double Eleven', 'Double Eleven']",3,3.4,9,76
+900,Terminator: Resistance,['Teyon'],1,3.18,33,54
+901,God Eater 3,"['BANDAI NAMCO Entertainment America Inc.', 'Marvelous Inc.', 'Bandai Namco Entertainment']",3,3.52,29,72
+902,NEON STRUCT,['Minor Key Games'],1,3.11,9,62
+903,Star Trek: Bridge Crew,['Ubisoft'],1,3.88,25,75
+904,Wheels of Aurelia,"['MixedBag', 'Santa Ragione', 'Santa Ragione s.r.l.', 'Santa Ragione Srl']",4,3.11,28,63
+905,Magnetic: Cage Closed,['Guru Games'],1,3.0,6,61
+906,One Finger Death Punch 2,['Silver Dollar Games'],1,3.93,15,81
+907,Stephen's Sausage Roll,['increpare games'],1,4.07,15,90
+908,RAD,"['BANDAI NAMCO Entertainment America Inc.', 'Double Fine Productions']",2,3.35,26,72
+909,Super Mario Maker,['Nintendo'],1,4.21,88,80
+910,NBA LIVE 19,['Electronic Arts Tiburon'],1,3.08,37,74
+911,MISSING: An Interactive Thriller - Episode One,['Zandel Media'],1,3.31,13,63
+912,ANCESTORS: The Humankind Odyssey,['Panache Digital Games'],1,2.8,48,69
+913,ARMS,['Nintendo'],1,3.63,87,77
+914,SINNER: Sacrifice for Redemption,"['Dark Star', 'ANOTHER INDIE STUDIO LIMITED']",2,3.0,28,61
+915,Block'hood,['Plethora-Project LLC'],1,3.71,17,77
+916,Legend of Kay Anniversary,"['Kaiko', 'Neon Studios', 'THQ Nordic']",3,3.3,30,64
+917,Timespinner,"['Lunar Ray Games', 'LUNAR RAY GAMES LLC']",2,4.08,38,78
+918,White Night,"['Activision', 'OSome Studio']",2,3.42,19,68
+919,STAR OCEAN: INTEGRITY AND FAITHLESSNESS,['Square Enix'],1,3.38,31,58
+920,BlazBlue: Central Fiction,"['Aksys Games', 'Arc System Works']",2,3.95,21,85
+921,Football Manager 2020 Touch,['Sports Interactive'],1,3.62,8,71
+922,"That Dragon, Cancer",['Numinous Games'],1,3.65,26,78
+923,Soul Axiom,"['Wales Interactive', 'Wales Interactive Ltd.']",2,3.17,6,57
+924,CRYPTARK,"['Alientrap', 'Alientrap Games Inc', 'Alientrap Games']",3,3.85,12,80
+925,There Came an Echo,"['Iridium Studios', 'IRIDIUM STUDIOS LLC']",2,2.86,7,58
+926,Ember,"['505 Games', 'N-Fusion Interactive']",2,3.12,7,70
+927,Diluvion,['Arachnid Games'],1,3.0,8,66
+928,Chime Sharp,"['Chilled Mouse Ltd', 'Ste Curran', 'Twistplay', 'Chilled Mouse']",4,3.22,9,85
+929,Five Nights at Freddy's 4,['Scott Cawthon'],1,2.59,29,51
+930,Budget Cuts,['Neat Corporation'],1,4.15,13,76
+931,Citadel: Forged with Fire,"['Blue Isle Studios', 'Virtual Basement LLC']",2,3.13,15,68
+932,Quadrilateral Cowboy,['Blendo Games'],1,4.17,24,81
+933,Overfall,['Pera Games'],1,3.33,6,71
+934,Kelvin and the Infamous Machine,['Blyts'],1,3.38,13,79
+935,FlatOut 4: Total Insanity,"['Kylotonn Entertainment', 'Sidewalk Games, LLC']",2,3.19,21,52
+936,Out of the Park Baseball 18,['Out of the Park Developments'],1,4.36,11,86
+937,WRC 6 FIA World Rally Championship,['Kylotonn Entertainment'],1,2.87,30,68
+938,Aven Colony,"['Mothership Entertainment LLC', 'Team17 Digital', 'Mothership Entertainment']",3,3.54,23,65
+939,The Next Penelope,"['Aurelien Regard', 'Seaven Studio', 'Aurélien REGARD']",3,3.25,8,82
+940,Disgaea 2 PC,"['Nippon Ichi Software, Inc.']",1,4.33,15,81
+941,Fire Emblem Fates: Birthright,['Intelligent Systems'],1,3.68,73,86
+942,8-Bit Armies,"['Petroglyph', 'SOEDESCO Publishing', 'Petroglyph Games']",3,3.43,14,69
+943,Atelier Sophie: The Alchemist of the Mysterious Book,"['KOEI TECMO America', 'Koei Tecmo']",2,3.92,24,73
+944,Shu,"['Coatsink', 'Coatsink Software Ltd', 'Secret Lunch', 'Coatsink Software']",4,3.12,8,85
+945,My Memory of Us,"['Crunching Koalas', 'IMAGINATION S.C.', 'Juggler Games']",3,3.75,12,70
+946,The Charnel House Trilogy,['Owl Cave'],1,3.5,10,68
+947,NARUTO TO BORUTO: SHINOBI STRIKER,"['BANDAI NAMCO Entertainment America Inc.', 'Soleil Ltd.']",2,3.04,28,62
+948,Good Robot,['Pyrodactyl'],1,3.33,5,67
+949,The Metronomicon: Slay the Dance Floor,"['Akupara Games', 'Puuba', 'Akupara Games, LLC']",3,3.08,13,79
+950,Dawn of Man,['Madruga Works'],1,3.5,32,74
+951,Calvino Noir,"['Calvino Noir Limited', 'Calvino Noir Ltd']",2,3.5,8,55
+952,Starlink: Battle for Atlas,['Ubisoft Toronto'],1,3.89,25,74
+953,The Fidelio Incident,"['Act 3 Games, LLC']",1,3.32,18,69
+954,Tokyo Xanadu eX+,"['Aksys Games', 'Nihon Falcom Corporation']",2,3.57,23,75
+955,Steel Division: Normandy 44,['Eugen Systems'],1,3.93,15,83
+956,Perception,"['The Deep End Games', 'WFH GAMES SP. Z O.O.']",2,3.54,13,56
+957,SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated,['Purple Lamp Studios'],1,3.45,19,69
+958,Persona 3: Dancing in Moonlight,"['Atlus U.S.A., Inc.', 'P Studio']",2,3.91,34,73
+959,Splendor,"['Asmodee Digital', 'Days of Wonder', 'Plug In Digital']",3,3.83,5,76
+960,Space Colony,['FireFly Studios'],1,4.38,8,74
+961,Monster Boy and the Cursed Kingdom,"['FDG Entertainment GmbH & Co.KG', 'Game Atelier']",2,3.91,34,85
+962,Phoning Home,['ION LANDS'],1,2.73,11,61
+963,Valfaris,['Steel Mantis'],1,3.62,24,81
+964,AKIBA'S TRIP: Undead ＆ Undressed,"['ACQUIRE Corp.', 'XSEED JKS Inc']",2,3.3,20,59
+965,428: Shibuya Scramble,"['Abstraction Games', 'Spike Chunsoft Co., Ltd.', 'Spike Chunsoft, Inc.']",3,4.44,18,85
+966,American Fugitive,['Fallen Tree Games'],1,3.05,22,66
+967,Reventure,['Pixelatto'],1,4.0,18,83
+968,Realpolitiks,['Jujubee S.A.'],1,3.29,14,55
+969,STEINS;GATE 0,"['5pb.', 'Nitroplus']",2,4.14,36,81
+970,STEINS;GATE ELITE,['MAGES. Inc.'],1,4.42,19,86
+971,Audioshield,['Dylan Fitterer'],1,3.83,12,81
+972,Fire Emblem Echoes: Shadows of Valentia,"['Intelligent Systems', '8-4']",2,4.32,49,81
+973,The Franz Kafka Videogame,['Denis Galanin (mif2000)'],1,3.43,20,65
+974,Dark Devotion,['Hibernian Workshop'],1,3.36,21,70
+975,Nights of Azure,"['KOEI TECMO America', 'Koei Tecmo']",2,3.4,20,64
+976,Lethis - Path of Progress,"['Triskell Interactive', 'Triskell Interactice', 'Triskell-Interactive']",3,3.41,17,65
+977,Hatoful Boyfriend: Holiday Star,"['Devolver Digital', 'Mediatonic', 'The Irregular Corporation']",3,3.78,9,54
+978,Children of Zodiarcs,"['Cardboard Utopia', 'Square Enix']",2,3.42,11,81
+979,Bombshell,"['Interceptor Entertainment', 'Denki Gaka']",2,2.6,9,43
+980,Crookz - The Big Heist,"['Kalypso Media', 'Skilltree Studios']",2,3.0,7,74
+981,LA Cops,"['Modern Dream', 'Team17 Digital']",2,2.83,12,45
+982,DESYNC,['The Foregone Syndicate'],1,4.0,6,69
+983,Unruly Heroes,"['Magic Design Studios', 'MAGIC DESIGN STUDIOS SAS']",2,3.65,25,77
+984,Shardlight,"['Wadjet Eye Games', 'Wadjet Eye Games LLC']",2,3.94,16,75
+985,WHAT THE GOLF?,['Triband'],1,4.18,55,82
+986,Castle In The Darkness,"['Matt Kap', 'Nicalis']",2,3.25,12,76
+987,Crashday Redline Edition,['Moonbyte'],1,3.5,20,63
+988,Star Control: Origins,['Stardock Entertainment'],1,3.0,11,75
+989,Ring Fit Adventure,['Nintendo'],1,4.32,37,83
+990,Cities XXL,['Focus Home Interactive'],1,3.54,13,47
+991,Grandia II Anniversary Edition,"['GAME ARTS Co., Ltd.']",1,3.71,14,80
+992,The Hong Kong Massacre,"['VRESKI', 'Vreski AB']",2,3.44,25,70
+993,Fire Emblem Fates: Conquest,['Intelligent Systems'],1,3.69,56,87
+994,Batman: Return to Arkham,['Warner Bros. Interactive'],1,4.42,50,75
+995,OVIVO,"['Sometimes You', 'IzHard', 'Evgeniy Kolpakov t/a Sometimes You', 'Alex Vilassak']",4,3.91,11,71
+996,Planar Conquest,"['Shortbreak Studios', 'Wastelands Interactive']",2,2.71,7,53
+997,Starpoint Gemini Warlords,['Little Green Men Games'],1,2.33,9,74
+998,The Guest,['Team Gotham'],1,3.67,9,68
+999,Attack on Titan 2,"['KOEI TECMO America', 'Koei Tecmo']",2,3.86,28,75
+1000,Police Stories,"['Morgan Games', 'Mighty Morgan']",2,3.21,19,75
+1001,The Legend of Heroes: Trails in the Sky SC,"['Nihon Falcom', 'Nihon Falcom Corporation']",2,4.41,27,80
+1002,Splatoon,['Nintendo'],1,4.08,57,81
+1003,Immortal: Unchained,"['Toadman Interactive', 'SOLD OUT SALES & MARKETING LIMITED']",2,3.04,23,54
+1004,Anarchy Online,['Funcom'],1,3.38,8,72
+1005,Has-Been Heroes,"['Frozenbyte', 'GameTrust Games']",2,3.57,7,63
+1006,DreamBreak,"['Aist', 'Digerati Distribution']",2,1.73,11,46
+1007,7th Sector,['Носков Сергей'],1,3.92,13,74
+1008,INSOMNIA: The Ark,['Mono Studio'],1,3.76,21,54
+1009,The Occupation,"['White Paper Games', 'Humble Bundle, Inc.']",2,3.33,18,67
+1010,Animal Crossing: Pocket Camp,['Nintendo'],1,2.86,70,72
+1011,House of the Dying Sun,"['Marauder Interactive, LLC']",1,3.8,9,76
+1012,Eagle Flight,"['Ubisoft', 'Ubisoft Montreal']",2,3.15,20,74
+1013,Blackwood Crossing,"['PaperSeven LTD', 'Vision Games Publishing']",2,3.39,18,70
+1014,Sky: Children of the Light,['thatgamecompany'],1,4.15,39,81
+1015,Feudal Alloy,"['Lukas Navratil', 'Eva Balikova', 'Attu Games', 'ATTU GAMES S.R.O.']",4,3.5,14,76
+1016,Daymare: 1998,['Invader Studios'],1,2.11,16,61
+1017,TurnOn,['Brainy Studio LLC'],1,2.89,8,67
+1018,Xenoblade Chronicles X,"['Monolith Soft', '8-4', 'Kusanagi']",3,4.37,41,84
+1019,Project Hospital,['Oxymoron Games'],1,3.82,16,75
+1020,Sniper Ghost Warrior Contracts,['CI Games'],1,3.29,21,57
+1021,0RBITALIS,['Alan Zucconi'],1,3.0,6,73
+1022,WORLD OF WARSHIPS: LEGENDS,['Wargaming.net'],1,3.5,8,82
+1023,Transport Fever 2,['Urban Games'],1,4.0,10,76
+1024,Knights And Bikes,['Foam Sword'],1,3.38,13,80
+1025,Battlefleet Gothic: Armada 2,['Tindalos Interactive'],1,3.75,16,77
+1026,Mosaic,['Krillbite Studio'],1,3.75,20,67
+1027,The Lord of the Rings Living Card Game,['Fantasy Flight Interactive'],1,2.67,6,75
+1028,Fist of The North Star: Lost Paradise,"['SEGA', 'Ryu ga Gotoku Studio']",2,4.09,22,72
+1029,Antihero,"['Tim Conkling', 'Versus Evil']",2,3.44,18,81
+1030,Narcosis,"['Honor Code, Inc.']",1,3.0,7,72
+1031,Oninaki,['Tokyo RPG Factory'],1,2.83,12,70
+1032,Fire,['Daedalic Entertainment'],1,3.0,11,64
+1033,Leap of Fate,"['Clever-Plays', 'Clever-Plays Studio, Inc.']",2,3.3,9,80
+1034,Sunset,['Tale of Tales'],1,3.56,9,66
+1035,Goliath,"['Whalebox Studio', 'Whalebox']",2,3.1,10,57
+1036,LEFT ALIVE,['Square Enix'],1,2.27,15,38
+1037,Grand Ages: Medieval,"['Gaming Minds Studios', 'Kalypso Media']",2,3.2,10,63
+1038,The World Ends with You: Final Remix,['Square Enix'],1,3.41,17,77
+1039,Fire Emblem Fates: Revelation,['Intelligent Systems'],1,3.61,42,88
+1040,MLB The Show 17,['Sony Interactive Entertainment'],1,4.05,22,85
+1041,Leaving Lyndow,['Eastshade Studios LLC'],1,2.36,11,74
+1042,Lemma,['Evan Todd'],1,3.86,7,73
+1043,Alone With You,['Benjamin Rivers Inc.'],1,3.17,12,75
+1044,"Warhammer 40,000: Sanctus Reach",['Straylight Entertainment'],1,2.7,10,68
+1045,StarDrive 2,['Zero Sum Games'],1,3.33,6,70
+1046,Fade to Silence,"['Black Forest Games', 'THQ Nordic']",2,3.29,17,56
+1047,Alwa's Awakening,"['Elden Pixels', 'Elden Pixels Ek. För.']",2,3.33,8,71
+1048,Fire Emblem Warriors,['Koei Tecmo'],1,3.61,36,72
+1049,Splatoon 2: Octo Expansion,['Nintendo'],1,4.64,42,82
+1050,Use Your Words,"['Smiling Buddha Games, LLC', 'Smiling Buddha Games']",2,3.67,15,74
+1051,Cobalt,"['Oxeye Game Studio', 'Oxeye Game Studio AB']",2,3.08,11,69
+1052,Quern - Undying Thoughts,['Zadbox Entertainment'],1,3.88,7,83
+1053,The Fall Part 2: Unbound,"['Over The Moon', 'Over The Moon Games', 'Over The Moon Games Inc.']",3,4.11,9,72
+1054,Don't open the doors!,['Anton Riot'],1,3.75,8,68
+1055,Battlezone,"['Rebellion', 'Stainless Games']",2,2.9,10,66
+1056,X4: Foundations,['Egosoft'],1,3.89,18,59
+1057,Prey - Mooncrash,['Arkane Studios'],1,3.44,25,80
+1058,Destiny 2: Shadowkeep,"['Bungie, Inc.']",1,3.57,28,75
+1059,Ironcast,['Dreadbit'],1,3.69,13,75
+1060,Ladykiller in a Bind,['Love Conquers All Games'],1,3.81,16,73
+1061,The Blackout Club,['Question'],1,3.38,13,68
+1062,WRC 5 FIA World Rally Championship,['Kylotonn Entertainment'],1,3.44,9,65
+1063,The Aquatic Adventure of the Last Human,"['Digerati Distribution', 'YCJY', 'YCJY Games']",3,3.88,7,76
+1064,DEAD OR ALIVE 6: Core Fighters,['KOEI TECMO America'],1,3.35,20,74
+1065,The Infectious Madness of Doctor Dekker,"[""D'Avekki Studios Ltd"", 'Wales Interactive', ""D'Avekki Studios""]",3,4.0,13,78
+1066,Vane,"['Friend & Foe', 'Friend & Foe AB', 'Friend & Foe Games']",3,3.25,16,56
+1067,Rogue Trooper Redux,"['Rebellion', 'TickTock Games', 'TickTock Games Ltd']",3,3.65,17,60
+1068,Alto's Odyssey,"['Noodlecake Studios Inc', 'Snowman']",2,4.14,48,88
+1069,RIDE,"['BANDAI NAMCO Entertainment America Inc.', 'Milestone S.r.l.']",2,3.45,11,68
+1070,Ground Control II: Operation Exodus,['Massive Entertainment'],1,4.07,15,80
+1071,Minecraft: Story Mode - Season Two,['Telltale Games'],1,3.46,26,70
+1072,Homesick,['Lucky Pause'],1,2.25,8,72
+1073,The Golf Club 2,"['HB Studios', 'Maximum Games']",2,3.25,12,72
+1074,Urban Empire,"['Reborn Games', 'Reborn Interactive']",2,2.6,14,62
+1075,Clandestine,['Logic Artists'],1,3.57,7,69
+1076,Lords of the Realm II,['Impressions Games'],1,4.5,10,77
+1077,Travis Strikes Again: No More Heroes,"['Grasshopper Manufacture', 'Marvelous Entertainment Inc.']",2,3.92,24,65
+1078,Downward,['Caracal Games'],1,3.17,6,77
+1079,Lethal League Blaze,"['Team Reptile', 'Reptile Games V.O.F.']",2,4.1,28,82
+1080,Alekhine's Gun,['Maximum Games'],1,3.5,6,40
+1081,Monolith,['Team D-13'],1,4.23,13,84
+1082,Transference,['Ubisoft'],1,3.13,23,72
+1083,ONE PIECE World Seeker,"['BANDAI NAMCO Entertainment America Inc.', 'GANBARION Co., Ltd.']",2,3.06,17,58
+1084,Prospekt,['Richard Seabrook'],1,2.56,9,43
+1085,Adventures of Pip,"['Tic Toc Games', 'TicToc Games', 'Tic Toc Studios']",3,3.0,7,72
+1086,OVERKILL's The Walking Dead,"['505 Games', 'OVERKILL Software']",2,2.44,32,51
+1087,Baobabs Mausoleum Ep. 1 Ovnifagos Don´t Eat Flamingos,"['Celery Emblem™', 'Celery Emblem']",2,3.12,8,69
+1088,Near Death,['Orthogonal Games'],1,3.14,6,70
+1089,Space Hulk: Tactics,"['Cyanide Studio', 'Focus Home Interactive']",2,3.21,14,71
+1090,Vector Thrust,['TimeSymmetry'],1,3.29,7,57
+1091,Toukiden 2,"['KOEI TECMO America', 'Koei Tecmo']",2,3.89,9,73
+1092,Herald: An Interactive Period Drama - Book I & II,['Wispfire'],1,2.29,7,77
+1093,Four Last Things,['Joe Richardson'],1,4.57,7,83
+1094,Gravity Ghost,['Ivy Games'],1,4.0,6,75
+1095,Bard's Gold,"['Erdem Sen', 'Erdem Sen t/a Erdem Sen']",2,3.0,8,58
+1096,Fire Emblem Heroes,"['Intelligent Systems', 'Nintendo']",2,3.58,40,72
+1097,Tadpole Treble,['BitFinity'],1,1.83,6,90
+1098,DYNASTY WARRIORS 9,['Omega Force'],1,2.6,18,65
+1099,Rad Rodgers: World One,['Interceptor Entertainment'],1,3.29,7,72
+1100,Serious Sam's Bogus Detour,"['Crackshell', 'Croteam']",2,3.67,9,76
+1101,Muv-Luv,"['ixtl', 'PQUBE LTD', 'Anchor Inc.']",3,4.22,9,76
+1102,Hybrid Wars,"['Extreme Developers', 'WG Labs']",2,2.78,9,54
+1103,Kirby: Planet Robobot,['HAL Laboratory'],1,4.19,34,81
+1104,"Warhammer 40,000: Deathwatch - Enhanced Edition",['Rodeo Games'],1,2.62,8,74
+1105,The Legend of Heroes: Trails in the Sky the 3rd,"['Nihon Falcom', 'Nihon Falcom Corporation']",2,4.41,17,83
+1106,DAEMON X MACHINA,['Marvelous Inc.'],1,2.45,11,70
+1107,Danger Zone,"['Three Fields Entertainment', 'Three Fields Entertainment LTD']",2,2.31,13,64
+1108,The Walking Dead: The Telltale Definitive Series,"['Telltale Games', 'Skybound LLC']",2,4.11,15,84
+1109,Genesis Alpha One,"['Team17 Digital', 'Radiation Blue']",2,1.89,9,67
+1110,Clash Royale,['Supercell'],1,3.9,39,86
+1111,Asphalt 9: Legends,"['Gameloft', 'Gameloft Barcelona', 'Gameloft SE']",3,3.38,40,68
+1112,Act of Aggression - Reboot Edition,['Eugen Systems'],1,3.0,8,71
+1113,Ride 2,"['Milestone', 'Milestone S.r.l.']",2,3.67,15,67
+1114,RollerCoaster Tycoon World,['Nvizzio Creations'],1,3.0,9,43
+1115,Voodoo Vince: Remastered,"['Beep Games, Inc.']",1,3.91,11,63
+1116,Circa Infinity,['Kenny Sun'],1,3.25,8,80
+1117,Mushihimesama,"['CAVE Interactive CO.,LTD.']",1,4.38,8,86
+1118,Stellaris: Console Edition,['Paradox Interactive'],1,4.08,11,79
+1119,Sublevel Zero,"['Sigtrap Games', 'Sigtrap']",2,3.17,6,71
+1120,Call of Duty: Mobile,['Tencent Games'],1,3.89,36,81
+1121,Inner Chains,['Telepaths Tree'],1,2.25,8,40
+1122,Mantis Burn Racing,"['VooFoo Studios', 'VOOFOO STUDIOS LIMITED']",2,3.22,9,71
+1123,Her Majesty's SPIFFING,"['Billy Goat Entertainment Ltd', 'BillyGoat Entertainment Ltd']",2,3.57,7,60
+1124,Ghostbusters: The Video Game Remastered,['Saber Interactive'],1,3.8,10,68
+1125,Knack 2,['Sony Interactive Entertainment'],1,3.36,25,71
+1126,VIDEOBALL,"['Action Button Entertainment, LLC', 'Iron Galaxy Studios, LLC']",2,3.5,8,82
+1127,Conan Unconquered,['Petroglyph'],1,3.0,9,62
+1128,Regalia: Of Men and Monarchs,['Pixelated Milk'],1,3.5,5,73
+1129,Xanadu Next,"['Nihon Falcom', 'Nihon Falcom Corporation']",2,3.86,6,78
+1130,Rico,"['Ground Shatter', 'Rising Star Games']",2,3.45,11,60
+1131,The Caligula Effect: Overdose,"['NIS America Inc.', 'Engine Software BV', 'FURYU Corporation']",3,3.0,7,61
+1132,Brut@l,"['Stormcloud Games', 'Stormcloud Games Limited']",2,2.92,12,66
+1133,Zanki Zero: Last Beginning,"['Spike Chunsoft Co., Ltd.', 'Spike Chunsoft, Inc.']",2,4.14,7,72
+1134,A Fisherman's Tale,"['Innerspace VR', 'Vertigo Games']",2,4.36,10,74
+1135,Fate/Extella Link,"['Marvelous Inc.', 'Type-Moon', 'Marvelous USA (XSEED)']",3,3.9,10,76
+1136,Killing Floor: Incursion,['Tripwire Interactive'],1,3.45,11,67
+1137,The Assembly,"['nDreams', 'NDREAMS LTD']",2,3.29,7,55
+1138,Nitroplus Blasterz: Heroines Infinite Duel,"['EXAMU', 'XSEED JKS Inc', 'Marvelous Inc.']",3,3.33,6,63
+1139,DARIUSBURST Chronicle Saviours,"['Chara-Ani', 'DEGICA CO., LTD.', 'Pyramid']",3,3.86,7,80
+1140,Death Mark,"['Aksys Games', 'Experience Inc.', 'Experience']",3,4.08,12,80
+1141,KILL la KILL - IF,"['Arc System Works', 'APLUS Co., Ltd', 'APLUS Co., Ltd.', 'APLUS Games']",4,2.14,7,66
+1142,Mighty Switch Force! Hyper Drive Edition,['WayForward Technologies'],1,3.56,9,85
+1143,Destiny 2: Warmind,"['Activision', 'Bungie, Inc.']",2,3.53,32,64
+1144,Fated: The Silent Oath,['Frima Studio'],1,3.0,6,67
+1145,Apsulov: End of Gods,['Angry Demon Studio'],1,3.14,7,71
+1146,GRID (2019),['Codemasters'],1,3.07,13,75
+1147,Yaga,['Breadcrumbs Interactive'],1,3.5,12,70
+1148,Shin Megami Tensei: Strange Journey Redux,"['Atlus', 'Lancarse']",2,4.31,12,80
+1149,Mario Kart Tour,['Nintendo'],1,3.09,22,58
+1150,Fossil Echo,['Awaceb'],1,3.0,6,61
+1151,Persona Q2: New Cinema Labyrinth,['Atlus'],1,4.0,8,81
+1152,Forza Horizon 4 LEGO Speed Champions,['Playground Games'],1,3.37,19,77
+1153,Xenoblade Chronicles 3D,['Monolith Soft'],1,4.15,20,86
+1154,Ashes Cricket,['Big Ant Studios'],1,3.33,9,76
+1155,Lethal VR,"['Three Fields Entertainment', 'Team17 Digital']",2,3.86,7,66
+1156,CALENDULA,['Blooming Buds Studio'],1,2.5,8,67
+1157,The Wardrobe,"['C.I.N.I.C. Games', 'MixedBag']",2,2.83,6,72
+1158,Lifeline...,"['3 Minute Games', '3 Minute Games, LLC']",2,4.42,12,77
+1159,Destiny 2: Curse of Osiris,"['Bungie, Inc.', 'High Moon Studios']",2,3.2,30,58
+1160,Devil's Hunt,['Layopi Games'],1,1.29,14,47
+1161,ZONE OF THE ENDERS: The 2nd Runner - M∀RS,"['Cygames, Inc.', 'Konami Digital Entertainment']",2,4.5,10,71
+1162,The Touryst,"[""Shin'en Multimedia""]",1,3.27,11,79
+1163,Final Fantasy 15 Pocket Edition,['Square Enix'],1,3.47,15,72
+1164,Dark Souls III: The Ringed City,['FromSoftware'],1,4.67,15,83
+1165,Blossom Tales: The Sleeping King,"['Castle Pixel, LLC.', 'Castle Pixel']",2,3.75,7,78
+1166,AereA,"['SOEDESCO Publishing', 'Triangle Studios']",2,2.5,6,57
+1167,The Evil Within: The Assignment,['Tango Gameworks'],1,4.0,25,80
+1168,Oceanhorn 2: Knights of the Lost Realm,['Cornfox & Bros.'],1,3.64,11,73
+1169,Monster Hunter Stories,['Capcom'],1,4.15,12,81
+1170,The Evil Within: The Consequence,['Tango Gameworks'],1,4.05,21,76
+1171,VOEZ,['Rayark International Limited'],1,4.17,18,86
+1172,Past Cure,['Phantom 8 Studio'],1,2.25,12,40
+1173,Troll and I,"['Maximum Games', 'Spiral House Ltd.', 'Spiral House Ltd']",3,1.83,6,27
+1174,Fallout 4: Nuka-World,['Bethesda Game Studios'],1,2.8,9,71
+1175,FRAMED 2,"['Loveshack', 'Noodlecake Studios Inc']",2,3.78,9,89
+1176,Pokkén Tournament,['Bandai Namco Entertainment'],1,3.55,11,76
+1177,Ever Oasis,['Grezzo'],1,3.88,8,78
+1178,AO International Tennis,['Big Ant Studios'],1,3.45,11,58
+1179,Far Cry 5 - Lost On Mars,['Ubisoft'],1,3.57,7,59
+1180,CATS: Crash Arena Turbo Stars (C.A.T.S.),['ZeptoLab'],1,3.79,14,78
+1181,Card Thief,['Arnold Rauers'],1,3.9,9,88
+1182,Fallout 4 - Far Harbor,['Bethesda Game Studios'],1,3.92,12,77
