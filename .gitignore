@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# stupid mac thing
+Icon[\r]
+
+# api keys
+api_keys.py
