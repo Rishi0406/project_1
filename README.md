@@ -31,4 +31,4 @@ The motivation for this project is two-fold -
 * **all_analysis_final.ipynb** - jupyter notebook containing main code to analyse the data and project summary
 * **csvfiles** folder - containing csv files used for analysis
 * **figures** folder - containing all figures output
-* **Presentation,pptx** - powerpoint for project presentation
+* **Presentation.pptx** - powerpoint for project presentation
