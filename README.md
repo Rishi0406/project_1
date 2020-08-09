@@ -4,7 +4,7 @@
 
 **Team Members**
 * Ian Lim
-* Rishi Sheth
+* Rishit Sheth
 * Yann Chye
 * Michelle Hocking
 
